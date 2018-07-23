@@ -1,0 +1,4825 @@
+[
+  {
+    "kanji": "優しい",
+    "furigana": "やさしい",
+    "part_of_speech": "adj-i",
+    "primary_def": "tender",
+    "secondary_def": "kind, gentle, graceful, affectionate, amiable, suave"
+  },
+  {
+    "kanji": "凄い",
+    "furigana": "すごい",
+    "part_of_speech": "adj-i",
+    "primary_def": "terrible",
+    "secondary_def": "dreadful, amazing (e.g. of strength), great (e.g. of skills), wonderful, terrific, to a great extent, vast (in numbers)"
+  },
+  {
+    "kanji": "厳しい",
+    "furigana": "きびしい",
+    "part_of_speech": "adj-i",
+    "primary_def": "severe",
+    "secondary_def": "strict, rigid, unsparing, relentless, stern, austere, grave, solemn, majestic, intense (cold)"
+  },
+  {
+    "kanji": "可笑しい",
+    "furigana": "おかしい",
+    "part_of_speech": "adj-i",
+    "primary_def": "funny",
+    "secondary_def": "amusing, comical, laughable, ridiculous, strange, odd, funny, peculiar, weird, unusual, eccentric, improper, unsuitable, unbecoming, suspicious"
+  },
+  {
+    "kanji": "嬉しい",
+    "furigana": "うれしい",
+    "part_of_speech": "adj-i",
+    "primary_def": "happy",
+    "secondary_def": "glad, pleasant"
+  },
+  {
+    "kanji": "宜しい",
+    "furigana": "よろしい",
+    "part_of_speech": "adj-i",
+    "primary_def": "(hon) good",
+    "secondary_def": "OK, all right, fine, very well, will do, may, can"
+  },
+  {
+    "kanji": "寂しい, 淋しい",
+    "furigana": "さびしい, さみしい",
+    "part_of_speech": "adj-i",
+    "primary_def": "lonely",
+    "secondary_def": "lonesome, solitary, desolate"
+  },
+  {
+    "kanji": "恥ずかしい",
+    "furigana": "はずかしい",
+    "part_of_speech": "adj-i",
+    "primary_def": "shy",
+    "secondary_def": "ashamed, embarrassed"
+  },
+  {
+    "kanji": "悲しい, 哀しい",
+    "furigana": "かなしい",
+    "part_of_speech": "adj-i",
+    "primary_def": "sad",
+    "secondary_def": "sorrowful"
+  },
+  {
+    "kanji": "柔らかい, 軟らかい, 柔かい",
+    "furigana": "やわらかい",
+    "part_of_speech": "adj-i",
+    "primary_def": "soft",
+    "secondary_def": "tender, limp"
+  },
+  {
+    "kanji": "正しい",
+    "furigana": "ただしい",
+    "part_of_speech": "adj-i",
+    "primary_def": "right",
+    "secondary_def": "just, correct, righteous, honest, truthful, proper, straightforward, perfect"
+  },
+  {
+    "kanji": "浅い",
+    "furigana": "あさい",
+    "part_of_speech": "adj-i",
+    "primary_def": "shallow",
+    "secondary_def": "superficial"
+  },
+  {
+    "kanji": "深い",
+    "furigana": "ふかい",
+    "part_of_speech": "adj-i",
+    "primary_def": "deep",
+    "secondary_def": "profound, thick, close (friendship)"
+  },
+  {
+    "kanji": "珍しい, 珍らしい",
+    "furigana": "めずらしい",
+    "part_of_speech": "adj-i",
+    "primary_def": "unusual",
+    "secondary_def": "rare, curious, new, novel, fine (e.g. gift)"
+  },
+  {
+    "kanji": "眠い, 睡い",
+    "furigana": "ねむい",
+    "part_of_speech": "adj-i",
+    "primary_def": "sleepy",
+    "secondary_def": "drowsy, somnolent"
+  },
+  {
+    "kanji": "硬い, 固い, 堅い, 緊い",
+    "furigana": "かたい",
+    "part_of_speech": "adj-i",
+    "primary_def": "hard",
+    "secondary_def": "solid, tough, stiff, tight, wooden, unpolished (e.g. writing), strong, firm (not verbscous or easily moved), safe, steady, honest, steadfast, obstinate, stubborn, bookish, formal, stuffy"
+  },
+  {
+    "kanji": "素晴らしい, 素晴しい",
+    "furigana": "すばらしい, すんばらしい",
+    "part_of_speech": "adj-i",
+    "primary_def": "wonderful",
+    "secondary_def": "splendid, magnificent"
+  },
+  {
+    "kanji": "細かい",
+    "furigana": "こまかい",
+    "part_of_speech": "adj-i",
+    "primary_def": "small",
+    "secondary_def": "fine, minute, minor, triverbal, sensitive, attentive"
+  },
+  {
+    "kanji": "美しい",
+    "furigana": "うつくしい",
+    "part_of_speech": "adj-i",
+    "primary_def": "beautiful",
+    "secondary_def": "lovely"
+  },
+  {
+    "kanji": "美味い",
+    "furigana": "うまい",
+    "part_of_speech": "adj-i",
+    "primary_def": "skillful",
+    "secondary_def": "clever, expert, wise, successful, delicious, appetizing, appetising, fortunate, splendid, promising"
+  },
+  {
+    "kanji": "苦い",
+    "furigana": "にがい",
+    "part_of_speech": "adj-i",
+    "primary_def": "bitter",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "ひどい",
+    "furigana": "ひどい",
+    "part_of_speech": "adj-i",
+    "primary_def": "cruel",
+    "secondary_def": "awful, severe, very bad, serious, terrible, heavy, verbolent"
+  },
+  {
+    "kanji": "怖い, 恐い",
+    "furigana": "こわい",
+    "part_of_speech": "adj-i, int",
+    "primary_def": "scary",
+    "secondary_def": "frightening, eerie, dreadful, (I'm) afraid"
+  },
+  {
+    "kanji": "盛ん",
+    "furigana": "さかん",
+    "part_of_speech": "adj-na",
+    "primary_def": "popular",
+    "secondary_def": "prosperous, enthusiastic, energetic, verbgorous"
+  },
+  {
+    "kanji": "複雑",
+    "furigana": "ふくざつ",
+    "part_of_speech": "adj-na",
+    "primary_def": "complex",
+    "secondary_def": "complicated"
+  },
+  {
+    "kanji": "久しぶり, 久し振り",
+    "furigana": "ひさしぶり",
+    "part_of_speech": "adj-na, adj-no",
+    "primary_def": "a long time (since the last time)",
+    "secondary_def": "it's been a while (since I last saw, mailed, etc., you)"
+  },
+  {
+    "kanji": "しっかり",
+    "furigana": "しっかり",
+    "part_of_speech": "adj-na, adv, adv-to, n, vs",
+    "primary_def": "firmly",
+    "secondary_def": "tightly, reliable, level-headed, steady"
+  },
+  {
+    "kanji": "特別",
+    "furigana": "とくべつ",
+    "part_of_speech": "adj-na, adv, n, adj-no",
+    "primary_def": "special",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "一杯",
+    "furigana": "いっぱい",
+    "part_of_speech": "adj-na, adv, n, adj-no, adv, adj-no, adj-na, n-verb, n-adv",
+    "primary_def": "full",
+    "secondary_def": "amount necessary to fill a container (e.g. a cupful, spoonful, etc.),a drink (i.e. an alcoholic beverage), one squid, octopus, crab, etc., one boat, fully, to capacity, a lot, much, all of ..., the entire ..."
+  },
+  {
+    "kanji": "大抵",
+    "furigana": "たいてい",
+    "part_of_speech": "adj-na, adv, n, adj-no, n, adj-na",
+    "primary_def": "mostly",
+    "secondary_def": "ordinarily, usually, generally, probably, most, almost all, (before a neg. form) ordinary, proper, appropriate, moderate"
+  },
+  {
+    "kanji": "丁寧",
+    "furigana": "ていねい",
+    "part_of_speech": "adj-na, n",
+    "primary_def": "polite",
+    "secondary_def": "courteous, careful, care, kind, close, thorough, conscientious"
+  },
+  {
+    "kanji": "不便",
+    "furigana": "ふべん",
+    "part_of_speech": "adj-na, n",
+    "primary_def": "inconvenience",
+    "secondary_def": "inexpediency, unhandiness"
+  },
+  {
+    "kanji": "大事",
+    "furigana": "だいじ",
+    "part_of_speech": "adj-na, n",
+    "primary_def": "important",
+    "secondary_def": "valuable, serious matter"
+  },
+  {
+    "kanji": "安全",
+    "furigana": "あんぜん",
+    "part_of_speech": "adj-na, n",
+    "primary_def": "safety",
+    "secondary_def": "security"
+  },
+  {
+    "kanji": "必要",
+    "furigana": "ひつよう",
+    "part_of_speech": "adj-na, n",
+    "primary_def": "necessary",
+    "secondary_def": "needed, essential, indispensable, necessity, need, requirement"
+  },
+  {
+    "kanji": "急",
+    "furigana": "きゅう",
+    "part_of_speech": "adj-na, n",
+    "primary_def": "urgent",
+    "secondary_def": "sudden, abrupt, sharp, steep, precipitous, rapid, swift, fast, emergency, crisis, hurrying, haste"
+  },
+  {
+    "kanji": "楽しみ",
+    "furigana": "たのしみ",
+    "part_of_speech": "adj-na, n",
+    "primary_def": "enjoyment",
+    "secondary_def": "pleasure, diversion, amusement, hobby, anticipation, looking forward to"
+  },
+  {
+    "kanji": "残念",
+    "furigana": "ざんねん",
+    "part_of_speech": "adj-na, n",
+    "primary_def": "bad luck",
+    "secondary_def": "deplorable, regret, disappointment"
+  },
+  {
+    "kanji": "熱心",
+    "furigana": "ねっしん",
+    "part_of_speech": "adj-na, n",
+    "primary_def": "zeal",
+    "secondary_def": "enthusiasm"
+  },
+  {
+    "kanji": "真面目",
+    "furigana": "まじめ",
+    "part_of_speech": "adj-na, n",
+    "primary_def": "diligent",
+    "secondary_def": "serious, honest, sober, grave, earnest, steady"
+  },
+  {
+    "kanji": "簡単",
+    "furigana": "かんたん",
+    "part_of_speech": "adj-na, n",
+    "primary_def": "simple",
+    "secondary_def": "easy, brief, uncomplicated"
+  },
+  {
+    "kanji": "親切",
+    "furigana": "しんせつ",
+    "part_of_speech": "adj-na, n",
+    "primary_def": "kindness",
+    "secondary_def": "gentleness"
+  },
+  {
+    "kanji": "適当",
+    "furigana": "てきとう",
+    "part_of_speech": "adj-na, n",
+    "primary_def": "suitable",
+    "secondary_def": "proper, appropriate, adequate, fit"
+  },
+  {
+    "kanji": "駄目",
+    "furigana": "だめ, ダメ",
+    "part_of_speech": "adj-na, n",
+    "primary_def": "no good",
+    "secondary_def": "not serverbng its purpose, useless, broken, hopeless, wasted, in vain, purposeless, cannot, must not, not allowed"
+  },
+  {
+    "kanji": "一生懸命",
+    "furigana": "いっしょうけんめい",
+    "part_of_speech": "adj-na, n-adv, n",
+    "primary_def": "very hard",
+    "secondary_def": "with utmost effort, with all one's might, for dear life"
+  },
+  {
+    "kanji": "味",
+    "furigana": "あじ",
+    "part_of_speech": "adj-na, n, adj-na",
+    "primary_def": "flavor",
+    "secondary_def": "flavour, taste, charm, style, experience"
+  },
+  {
+    "kanji": "格好, 恰好",
+    "furigana": "かっこう, カッコ",
+    "part_of_speech": "adj-na, n, adj-no",
+    "primary_def": "shape",
+    "secondary_def": "form, posture, appearance, manner, suitability, moderateness (in price)"
+  },
+  {
+    "kanji": "変",
+    "furigana": "へん",
+    "part_of_speech": "adj-na, n, n-pref",
+    "primary_def": "strange",
+    "secondary_def": "odd, peculiar, weird, curious, queer, eccentric, funny, suspicious, fishy, unexpected, change, incident, disturbance, disaster, accident, flat (music)"
+  },
+  {
+    "kanji": "安心",
+    "furigana": "あんしん",
+    "part_of_speech": "adj-na, n, vs",
+    "primary_def": "relief",
+    "secondary_def": "peace of mind"
+  },
+  {
+    "kanji": "無理",
+    "furigana": "むり",
+    "part_of_speech": "adj-na, n, vs",
+    "primary_def": "unreasonable",
+    "secondary_def": "impossible, overdoing"
+  },
+  {
+    "kanji": "遠慮",
+    "furigana": "えんりょ",
+    "part_of_speech": "adj-na, n, vs",
+    "primary_def": "diffidence",
+    "secondary_def": "restraint, reserve, discretion, tact, thoughtfulness"
+  },
+  {
+    "kanji": "邪魔",
+    "furigana": "じゃま",
+    "part_of_speech": "adj-na, n, vs",
+    "primary_def": "hindrance",
+    "secondary_def": "intrusion"
+  },
+  {
+    "kanji": "反対",
+    "furigana": "はんたい",
+    "part_of_speech": "adj-na, n, vs, adj-no",
+    "primary_def": "opposition",
+    "secondary_def": "resistance, antagonism, hostility, contrast, objection, dissension, reverse, opposite, verbce versa"
+  },
+  {
+    "kanji": "十分, 充分",
+    "furigana": "じゅうぶん",
+    "part_of_speech": "adj-na, n, vs, adv",
+    "primary_def": "plenty",
+    "secondary_def": "enough, verbficient, satisfactory, adequate, diverbsion into ten, perfectly, thoroughly, fully, in full"
+  },
+  {
+    "kanji": "心配",
+    "furigana": "しんぱい",
+    "part_of_speech": "adj-na, n, vs, n, vs",
+    "primary_def": "worry",
+    "secondary_def": "concern, anxiety, care, help, aid, assistance"
+  },
+  {
+    "kanji": "あんな",
+    "furigana": "あんな",
+    "part_of_speech": "adj-na,adj-pn",
+    "primary_def": "such",
+    "secondary_def": "like that"
+  },
+  {
+    "kanji": "そんな",
+    "furigana": "そんな",
+    "part_of_speech": "adj-na,adj-pn,adv,n",
+    "primary_def": "such",
+    "secondary_def": "like that,that sort of"
+  },
+  {
+    "kanji": "オーバー",
+    "furigana": "オーバー",
+    "part_of_speech": "adj-na,n,vs",
+    "primary_def": "overcoat",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "別",
+    "furigana": "べつ",
+    "part_of_speech": "adj-no, adj-na, n, n-verb",
+    "primary_def": "distinction",
+    "secondary_def": "difference, different, another, particular, separate, extra, exception"
+  },
+  {
+    "kanji": "普通",
+    "furigana": "ふつう",
+    "part_of_speech": "adj-no, adv",
+    "primary_def": "general",
+    "secondary_def": "ordinary, usual, normally, generally, usually, train that stops at every station"
+  },
+  {
+    "kanji": "遠く",
+    "furigana": "とおく",
+    "part_of_speech": "adj-no, n-adv, n",
+    "primary_def": "far away",
+    "secondary_def": "distant, at a distance, distant place, by far"
+  },
+  {
+    "kanji": "昔",
+    "furigana": "むかし",
+    "part_of_speech": "adj-no, n-adv, n-t",
+    "primary_def": "olden days",
+    "secondary_def": "former"
+  },
+  {
+    "kanji": "最初",
+    "furigana": "さいしょ",
+    "part_of_speech": "adj-no, n-adv, n-t",
+    "primary_def": "beginning",
+    "secondary_def": "outset, first, onset"
+  },
+  {
+    "kanji": "最近",
+    "furigana": "さいきん",
+    "part_of_speech": "adj-no, n-adv, n-t",
+    "primary_def": "most recent",
+    "secondary_def": "these days, right now, recently, nowadays"
+  },
+  {
+    "kanji": "中中, 中々",
+    "furigana": "なかなか",
+    "part_of_speech": "adv",
+    "primary_def": "very",
+    "secondary_def": "considerably, easily, readily, fairly, quite, highly, rather, by no means (with negative verb)"
+  },
+  {
+    "kanji": "例えば",
+    "furigana": "たとえば",
+    "part_of_speech": "adv",
+    "primary_def": "for example",
+    "secondary_def": "e.g."
+  },
+  {
+    "kanji": "先ず",
+    "furigana": "まず",
+    "part_of_speech": "adv",
+    "primary_def": "first (of all)",
+    "secondary_def": "to start with, about, almost, anyway, well, now, hardly (with neg. verb)"
+  },
+  {
+    "kanji": "全然",
+    "furigana": "ぜんぜん",
+    "part_of_speech": "adv",
+    "primary_def": "not at all (with neg. verb)",
+    "secondary_def": "wholly, entirely, completely"
+  },
+  {
+    "kanji": "其れ程, それ程",
+    "furigana": "それほど",
+    "part_of_speech": "adv",
+    "primary_def": "to that degree (usu. Kana only)",
+    "secondary_def": "extent"
+  },
+  {
+    "kanji": "到頭",
+    "furigana": "とうとう",
+    "part_of_speech": "adv",
+    "primary_def": "finally",
+    "secondary_def": "at last, (literally) reaching a head"
+  },
+  {
+    "kanji": "勿論",
+    "furigana": "もちろん",
+    "part_of_speech": "adv",
+    "primary_def": "of course",
+    "secondary_def": "certainly, naturally"
+  },
+  {
+    "kanji": "大分",
+    "furigana": "だいぶ, だいぶん",
+    "part_of_speech": "adv",
+    "primary_def": "considerably",
+    "secondary_def": "greatly, a lot"
+  },
+  {
+    "kanji": "必ず",
+    "furigana": "かならず",
+    "part_of_speech": "adv",
+    "primary_def": "certainly",
+    "secondary_def": "always,without exception, necessarily, without fail, positively, invariably"
+  },
+  {
+    "kanji": "成るべく, 成る可く",
+    "furigana": "なるべく",
+    "part_of_speech": "adv",
+    "primary_def": "as much as possible",
+    "secondary_def": "wherever practicable"
+  },
+  {
+    "kanji": "最も",
+    "furigana": "もっとも",
+    "part_of_speech": "adv",
+    "primary_def": "most",
+    "secondary_def": "extremely"
+  },
+  {
+    "kanji": "決して",
+    "furigana": "けっして, けして",
+    "part_of_speech": "adv",
+    "primary_def": "never",
+    "secondary_def": "by no means (always uses negative verb), decidedly, indisputably"
+  },
+  {
+    "kanji": "特に",
+    "furigana": "とくに",
+    "part_of_speech": "adv",
+    "primary_def": "particularly",
+    "secondary_def": "especially"
+  },
+  {
+    "kanji": "若し",
+    "furigana": "もし",
+    "part_of_speech": "adv",
+    "primary_def": "if",
+    "secondary_def": "in case, supposing"
+  },
+  {
+    "kanji": "非常に",
+    "furigana": "ひじょうに",
+    "part_of_speech": "adv",
+    "primary_def": "very",
+    "secondary_def": "extremely, exceedingly"
+  },
+  {
+    "kanji": "すっかり",
+    "furigana": "すっかり",
+    "part_of_speech": "adv",
+    "primary_def": "all",
+    "secondary_def": "completely,thoroughly"
+  },
+  {
+    "kanji": "そう",
+    "furigana": "そう",
+    "part_of_speech": "adv",
+    "primary_def": "really",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "ちっとも",
+    "furigana": "ちっとも",
+    "part_of_speech": "adv",
+    "primary_def": "not at all (neg. verb)",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "どんどん",
+    "furigana": "どんどん",
+    "part_of_speech": "adv",
+    "primary_def": "steadily",
+    "secondary_def": "little by little"
+  },
+  {
+    "kanji": "やっと",
+    "furigana": "やっと",
+    "part_of_speech": "adv",
+    "primary_def": "at last",
+    "secondary_def": "at length"
+  },
+  {
+    "kanji": "暫く, 暫らく",
+    "furigana": "しばらく",
+    "part_of_speech": "adv, adj-no, int",
+    "primary_def": "little while",
+    "secondary_def": "short while, moment, instant, a while, quite a time, it's been a long time"
+  },
+  {
+    "kanji": "随分, 隨分",
+    "furigana": "ずいぶん",
+    "part_of_speech": "adv, adv-to, adj-na",
+    "primary_def": "very",
+    "secondary_def": "extremely, surprisingly, considerably, contemptible, reprehensible"
+  },
+  {
+    "kanji": "割合, 割り合い",
+    "furigana": "わりあい",
+    "part_of_speech": "adv, n",
+    "primary_def": "rate",
+    "secondary_def": "ratio, percentage, proportion, comparatively, contrary to expectations"
+  },
+  {
+    "kanji": "是非",
+    "furigana": "ぜひ",
+    "part_of_speech": "adv, n",
+    "primary_def": "certainly",
+    "secondary_def": "without fail"
+  },
+  {
+    "kanji": "皆",
+    "furigana": "みな, みんな",
+    "part_of_speech": "adv, n",
+    "primary_def": "all",
+    "secondary_def": "everyone, everybody, everything"
+  },
+  {
+    "kanji": "きっと",
+    "furigana": "きっと",
+    "part_of_speech": "adv, n",
+    "primary_def": "surely",
+    "secondary_def": "undoubtedly, almost certainly, most likely (e.g. 90 percent), sternly, severely"
+  },
+  {
+    "kanji": "都合",
+    "furigana": "つごう",
+    "part_of_speech": "adv, n, vs",
+    "primary_def": "circumstances",
+    "secondary_def": "condition, convenience, to arrange, to manage"
+  },
+  {
+    "kanji": "こう",
+    "furigana": "こう",
+    "part_of_speech": "adv,int-n",
+    "primary_def": "like this",
+    "secondary_def": "this way"
+  },
+  {
+    "kanji": "ずっと",
+    "furigana": "ずっと",
+    "part_of_speech": "adv,n",
+    "primary_def": "straight",
+    "secondary_def": "quickly,all of a sudden"
+  },
+  {
+    "kanji": "はっきり",
+    "furigana": "はっきり",
+    "part_of_speech": "adv,n",
+    "primary_def": "clearly",
+    "secondary_def": "plainly,distinctly"
+  },
+  {
+    "kanji": "偶に, 適に",
+    "furigana": "たまに",
+    "part_of_speech": "adv,verb",
+    "primary_def": "occasionally",
+    "secondary_def": "once in a while"
+  },
+  {
+    "kanji": "いらっしゃる",
+    "furigana": "いらっしゃる",
+    "part_of_speech": "aru-v",
+    "primary_def": "(hon) to be",
+    "secondary_def": "to come,to go"
+  },
+  {
+    "kanji": "差し上げる, 差上げる",
+    "furigana": "さしあげる",
+    "part_of_speech": "verb, verb, verb, verb, verb",
+    "primary_def": "(polite)to give",
+    "secondary_def": "to offer, to lift up, to hold up, to raise"
+  },
+  {
+    "kanji": "其れで",
+    "furigana": "それで",
+    "part_of_speech": "conj",
+    "primary_def": "and (usu. Kana only)",
+    "secondary_def": "thereupon, because of that"
+  },
+  {
+    "kanji": "其れに",
+    "furigana": "それに",
+    "part_of_speech": "conj",
+    "primary_def": "besides (usu. Kana only)",
+    "secondary_def": "moreover"
+  },
+  {
+    "kanji": "けれど/けれども",
+    "furigana": "けれど/けれども",
+    "part_of_speech": "conj",
+    "primary_def": "but",
+    "secondary_def": "however"
+  },
+  {
+    "kanji": "すると",
+    "furigana": "すると",
+    "part_of_speech": "conj",
+    "primary_def": "and",
+    "secondary_def": "then"
+  },
+  {
+    "kanji": "又は",
+    "furigana": "または",
+    "part_of_speech": "conj, exp",
+    "primary_def": "or",
+    "secondary_def": "otherwise"
+  },
+  {
+    "kanji": "だから",
+    "furigana": "だから",
+    "part_of_speech": "conj,n",
+    "primary_def": "so",
+    "secondary_def": "therefore"
+  },
+  {
+    "kanji": "お蔭様で",
+    "furigana": "おかげさまで",
+    "part_of_speech": "exp",
+    "primary_def": "thanks to you",
+    "secondary_def": "(literally) under the gods' shadow"
+  },
+  {
+    "kanji": "出来るだけ",
+    "furigana": "できるだけ",
+    "part_of_speech": "exp",
+    "primary_def": "as much as one can",
+    "secondary_def": "as much as possible, if at all possible"
+  },
+  {
+    "kanji": "自由",
+    "furigana": "じゆう",
+    "part_of_speech": "exp, adj-na, n",
+    "primary_def": "freedom",
+    "secondary_def": "liberty, as it pleases you"
+  },
+  {
+    "kanji": "成程, 成る程",
+    "furigana": "なるほど",
+    "part_of_speech": "exp, adv",
+    "primary_def": "I see",
+    "secondary_def": "That's right!, Indeed"
+  },
+  {
+    "kanji": "矢っ張り, 矢張り, 矢っ張, 矢っ張し",
+    "furigana": "やっぱり, やはり, やっぱ, やっぱし",
+    "part_of_speech": "exp, adv, adj-f",
+    "primary_def": "also",
+    "secondary_def": "as I thought, still, in spite of, absolutely, of course"
+  },
+  {
+    "kanji": "確か, 確, 慥か",
+    "furigana": "たしか",
+    "part_of_speech": "exp, n, adj-na, adv",
+    "primary_def": "certain",
+    "secondary_def": "sure, definite, if I'm not mistaken, if I remember correctly"
+  },
+  {
+    "kanji": "ご覧になる, 御覧になる, ご覧に成る, 御覧に成る",
+    "furigana": "ごらんになる",
+    "part_of_speech": "exp, verb",
+    "primary_def": "(hon)to see",
+    "secondary_def": "to look, to watch, (after the -te form of a verb) try to"
+  },
+  {
+    "kanji": "～（に）ついて",
+    "furigana": "～（に）ついて",
+    "part_of_speech": "expr",
+    "primary_def": "about",
+    "secondary_def": "concerning,regarding"
+  },
+  {
+    "kanji": "～ございます",
+    "furigana": "～ございます",
+    "part_of_speech": "expr",
+    "primary_def": "to be (polite)",
+    "secondary_def": "to exist"
+  },
+  {
+    "kanji": "もうすぐ",
+    "furigana": "もうすぐ",
+    "part_of_speech": "expr",
+    "primary_def": "soon",
+    "secondary_def": "very soon"
+  },
+  {
+    "kanji": "あ",
+    "furigana": "あ",
+    "part_of_speech": "int",
+    "primary_def": "Ah",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "ああ",
+    "furigana": "ああ",
+    "part_of_speech": "int",
+    "primary_def": "like that",
+    "secondary_def": "that way"
+  },
+  {
+    "kanji": "～区",
+    "furigana": "～く",
+    "part_of_speech": "n",
+    "primary_def": "district ～",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "～町",
+    "furigana": "～ちょう",
+    "part_of_speech": "n",
+    "primary_def": "～ of the town",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "お土産, 御土産",
+    "furigana": "おみやげ",
+    "part_of_speech": "n",
+    "primary_def": "present (usu. Food)",
+    "secondary_def": "souvenir"
+  },
+  {
+    "kanji": "お嬢さん, 御嬢さん",
+    "furigana": "おじょうさん",
+    "part_of_speech": "n",
+    "primary_def": "(hon) daughter",
+    "secondary_def": "young lady"
+  },
+  {
+    "kanji": "お子さん",
+    "furigana": "おこさん",
+    "part_of_speech": "n",
+    "primary_def": "(someone else's) child",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "お礼, 御礼",
+    "furigana": "おれい, おんれい",
+    "part_of_speech": "n",
+    "primary_def": "thanking",
+    "secondary_def": "expression of gratitude"
+  },
+  {
+    "kanji": "お見舞い",
+    "furigana": "おみまい",
+    "part_of_speech": "n",
+    "primary_def": "calling on someone who is ill",
+    "secondary_def": "enquiry"
+  },
+  {
+    "kanji": "お釣り, 御釣り",
+    "furigana": "おつり",
+    "part_of_speech": "n",
+    "primary_def": "change (i.e. money)",
+    "secondary_def": "balance"
+  },
+  {
+    "kanji": "ご主人, 御主人",
+    "furigana": "ごしゅじん",
+    "part_of_speech": "n",
+    "primary_def": "(hon) your husband",
+    "secondary_def": "her husband"
+  },
+  {
+    "kanji": "ご存じ, ご存知, 御存じ, 御存知",
+    "furigana": "ごぞんじ",
+    "part_of_speech": "n",
+    "primary_def": "knowing",
+    "secondary_def": "(an) acquaintance"
+  },
+  {
+    "kanji": "下着",
+    "furigana": "したぎ",
+    "part_of_speech": "n",
+    "primary_def": "underwear",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "世界",
+    "furigana": "せかい",
+    "part_of_speech": "n",
+    "primary_def": "the world",
+    "secondary_def": "society, the universe"
+  },
+  {
+    "kanji": "中学校",
+    "furigana": "ちゅうがっこう",
+    "part_of_speech": "n",
+    "primary_def": "junior high school",
+    "secondary_def": "middle school, lower secondary school"
+  },
+  {
+    "kanji": "乗り物, 乗物",
+    "furigana": "のりもの",
+    "part_of_speech": "n",
+    "primary_def": "vehicle",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "事務所",
+    "furigana": "じむしょ",
+    "part_of_speech": "n",
+    "primary_def": "office",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "事故",
+    "furigana": "じこ, ことゆえ",
+    "part_of_speech": "n",
+    "primary_def": "accident",
+    "secondary_def": "incident, trouble, circumstances, reasons"
+  },
+  {
+    "kanji": "二階建て, 二階建",
+    "furigana": "にかいだて",
+    "part_of_speech": "n",
+    "primary_def": "two-storied building",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "人口",
+    "furigana": "じんこう",
+    "part_of_speech": "n",
+    "primary_def": "population",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "人形",
+    "furigana": "にんぎょう",
+    "part_of_speech": "n",
+    "primary_def": "doll",
+    "secondary_def": "puppet, figure"
+  },
+  {
+    "kanji": "仕方",
+    "furigana": "しかた",
+    "part_of_speech": "n",
+    "primary_def": "way",
+    "secondary_def": "method, means, resource, course"
+  },
+  {
+    "kanji": "会場",
+    "furigana": "かいじょう",
+    "part_of_speech": "n",
+    "primary_def": "assembly hall",
+    "secondary_def": "meeting place, venue, grounds"
+  },
+  {
+    "kanji": "会議室",
+    "furigana": "かいぎしつ",
+    "part_of_speech": "n",
+    "primary_def": "conference room",
+    "secondary_def": "council room"
+  },
+  {
+    "kanji": "住所",
+    "furigana": "じゅうしょ",
+    "part_of_speech": "n",
+    "primary_def": "address (e.g. of house)",
+    "secondary_def": "residence, domicile"
+  },
+  {
+    "kanji": "値段, 直段",
+    "furigana": "ねだん",
+    "part_of_speech": "n",
+    "primary_def": "price",
+    "secondary_def": "cost"
+  },
+  {
+    "kanji": "先輩",
+    "furigana": "せんぱい",
+    "part_of_speech": "n",
+    "primary_def": "senior (at work or school)",
+    "secondary_def": "superior, elder, older graduate, progenitor, old-timer"
+  },
+  {
+    "kanji": "光",
+    "furigana": "ひかり",
+    "part_of_speech": "n",
+    "primary_def": "light",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "公務員",
+    "furigana": "こうむいん",
+    "part_of_speech": "n",
+    "primary_def": "government worker",
+    "secondary_def": "public (civerbl) servant"
+  },
+  {
+    "kanji": "具合",
+    "furigana": "ぐあい",
+    "part_of_speech": "n",
+    "primary_def": "condition",
+    "secondary_def": "state, manner, health"
+  },
+  {
+    "kanji": "力",
+    "furigana": "ちから",
+    "part_of_speech": "n",
+    "primary_def": "force",
+    "secondary_def": "strength, might, verbgour (verbgor), energy, capability, ability, proficiency, capacity, faculty, efficacy, effect, effort, endeavours (endeavors), exertions, power, authority, influence, good offices, agency, support, help, aid, assistance, stress, emphasis, means, resources"
+  },
+  {
+    "kanji": "動物園",
+    "furigana": "どうぶつえん",
+    "part_of_speech": "n",
+    "primary_def": "zoo",
+    "secondary_def": "zoological gardens"
+  },
+  {
+    "kanji": "匂い, 臭い, 匂",
+    "furigana": "におい",
+    "part_of_speech": "n",
+    "primary_def": "odor",
+    "secondary_def": "odour, scent, smell, stench, aura, whiff, smacks of ..., sense, flavour, flavor"
+  },
+  {
+    "kanji": "医学",
+    "furigana": "いがく",
+    "part_of_speech": "n",
+    "primary_def": "medical science",
+    "secondary_def": "medicine"
+  },
+  {
+    "kanji": "台風, 颱風",
+    "furigana": "たいふう",
+    "part_of_speech": "n",
+    "primary_def": "typhoon",
+    "secondary_def": "hurricane"
+  },
+  {
+    "kanji": "味噌",
+    "furigana": "みそ",
+    "part_of_speech": "n",
+    "primary_def": "miso",
+    "secondary_def": "bean paste, key (main) point"
+  },
+  {
+    "kanji": "品物",
+    "furigana": "しなもの",
+    "part_of_speech": "n",
+    "primary_def": "goods",
+    "secondary_def": "article, thing"
+  },
+  {
+    "kanji": "嘘",
+    "furigana": "うそ",
+    "part_of_speech": "n",
+    "primary_def": "lie",
+    "secondary_def": "falsehood, incorrect fact, Really!, Unbelievable!, No way!"
+  },
+  {
+    "kanji": "地理",
+    "furigana": "ちり",
+    "part_of_speech": "n",
+    "primary_def": "geography",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "地震",
+    "furigana": "じしん",
+    "part_of_speech": "n",
+    "primary_def": "earthquake",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "坂, 阪",
+    "furigana": "さか",
+    "part_of_speech": "n",
+    "primary_def": "slope",
+    "secondary_def": "hill"
+  },
+  {
+    "kanji": "場所",
+    "furigana": "ばしょ",
+    "part_of_speech": "n",
+    "primary_def": "place",
+    "secondary_def": "location, spot, position, room, space, basho (sumo wrestling tournament)"
+  },
+  {
+    "kanji": "壁",
+    "furigana": "かべ, へき",
+    "part_of_speech": "n",
+    "primary_def": "wall",
+    "secondary_def": "barrier, Chinese \"Wall\" constellation (one of the 28 mansions)"
+  },
+  {
+    "kanji": "夕飯",
+    "furigana": "ゆうはん, ゆうめし",
+    "part_of_speech": "n",
+    "primary_def": "evening meal",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "夢",
+    "furigana": "ゆめ",
+    "part_of_speech": "n",
+    "primary_def": "dream",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "大学生",
+    "furigana": "だいがくせい",
+    "part_of_speech": "n",
+    "primary_def": "university student",
+    "secondary_def": "college student"
+  },
+  {
+    "kanji": "天気予報",
+    "furigana": "てんきよほう",
+    "part_of_speech": "n",
+    "primary_def": "weather forecast",
+    "secondary_def": "weather report"
+  },
+  {
+    "kanji": "夫",
+    "furigana": "おっと",
+    "part_of_speech": "n",
+    "primary_def": "husband",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "妻, 夫, 具",
+    "furigana": "つま",
+    "part_of_speech": "n",
+    "primary_def": "(hum) wife",
+    "secondary_def": "dear (formerly used by romantically linked men and women to refer to one another), garnish (esp. one served with sashimi), embellishment"
+  },
+  {
+    "kanji": "娘",
+    "furigana": "むすめ",
+    "part_of_speech": "n",
+    "primary_def": "(my) daughter",
+    "secondary_def": "girl (i.e. a young, unmarried woman)"
+  },
+  {
+    "kanji": "字",
+    "furigana": "じ",
+    "part_of_speech": "n",
+    "primary_def": "character (i.e. kanji)",
+    "secondary_def": "hand-writing, penmanship, the ... word (i.e. \"the L word\" = \"love\")"
+  },
+  {
+    "kanji": "客",
+    "furigana": "きゃく, かく",
+    "part_of_speech": "n",
+    "primary_def": "guest",
+    "secondary_def": "verbsitor, customer, client, shopper, spectator, audience, tourist, sightseer, passenger"
+  },
+  {
+    "kanji": "家内",
+    "furigana": "かない, やうち",
+    "part_of_speech": "n",
+    "primary_def": "(my) wife",
+    "secondary_def": "inside the home, one's family"
+  },
+  {
+    "kanji": "寺",
+    "furigana": "てら",
+    "part_of_speech": "n",
+    "primary_def": "temple (Buddhist)",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "小学校",
+    "furigana": "しょうがっこう",
+    "part_of_speech": "n",
+    "primary_def": "primary school",
+    "secondary_def": "elementary school, grade school"
+  },
+  {
+    "kanji": "小鳥",
+    "furigana": "ことり",
+    "part_of_speech": "n",
+    "primary_def": "small bird",
+    "secondary_def": "songbird, birdie"
+  },
+  {
+    "kanji": "屋上",
+    "furigana": "おくじょう",
+    "part_of_speech": "n",
+    "primary_def": "rooftop",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "展覧会",
+    "furigana": "てんらんかい",
+    "part_of_speech": "n",
+    "primary_def": "exhibition",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "島, 嶋",
+    "furigana": "しま",
+    "part_of_speech": "n",
+    "primary_def": "island",
+    "secondary_def": "territory (of a prostitute, organized crime gang, etc.), turf"
+  },
+  {
+    "kanji": "工場",
+    "furigana": "こうじょう, こうば",
+    "part_of_speech": "n",
+    "primary_def": "factory",
+    "secondary_def": "plant, mill, workshop"
+  },
+  {
+    "kanji": "工業",
+    "furigana": "こうぎょう",
+    "part_of_speech": "n",
+    "primary_def": "(manufacturing) industry",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "市民",
+    "furigana": "しみん",
+    "part_of_speech": "n",
+    "primary_def": "citizen",
+    "secondary_def": "townspeople"
+  },
+  {
+    "kanji": "布団",
+    "furigana": "ふとん",
+    "part_of_speech": "n",
+    "primary_def": "futon (quilted Japanese-style mattress laid out on the floor)",
+    "secondary_def": "round cushion used for Zen meditation (traditionally made of woven bulrush leaves)"
+  },
+  {
+    "kanji": "席",
+    "furigana": "せき",
+    "part_of_speech": "n",
+    "primary_def": "seat",
+    "secondary_def": "location (of a gathering, etc.), place, position, post"
+  },
+  {
+    "kanji": "帰り",
+    "furigana": "かえり",
+    "part_of_speech": "n",
+    "primary_def": "return",
+    "secondary_def": "coming back"
+  },
+  {
+    "kanji": "床屋",
+    "furigana": "とこや",
+    "part_of_speech": "n",
+    "primary_def": "barbershop",
+    "secondary_def": "barber"
+  },
+  {
+    "kanji": "建て",
+    "furigana": "～だて",
+    "part_of_speech": "n",
+    "primary_def": "two storied",
+    "secondary_def": "separate housing"
+  },
+  {
+    "kanji": "引き出し, 引出し",
+    "furigana": "ひきだし",
+    "part_of_speech": "n",
+    "primary_def": "drawer",
+    "secondary_def": "withdrawal, drawing out"
+  },
+  {
+    "kanji": "形",
+    "furigana": "かたち, よう",
+    "part_of_speech": "n",
+    "primary_def": "form",
+    "secondary_def": "shape, figure, verbsage"
+  },
+  {
+    "kanji": "心",
+    "furigana": "こころ",
+    "part_of_speech": "n",
+    "primary_def": "mind",
+    "secondary_def": "heart, spirit, the meaning of a phrase (riddle, etc.)"
+  },
+  {
+    "kanji": "忘れ物",
+    "furigana": "わすれもの",
+    "part_of_speech": "n",
+    "primary_def": "lost article",
+    "secondary_def": "something forgotten"
+  },
+  {
+    "kanji": "息子",
+    "furigana": "むすこ",
+    "part_of_speech": "n",
+    "primary_def": "(hum) son",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "手袋, 手ぶくろ",
+    "furigana": "てぶくろ",
+    "part_of_speech": "n",
+    "primary_def": "glove",
+    "secondary_def": "mitten, mitt"
+  },
+  {
+    "kanji": "技術",
+    "furigana": "ぎじゅつ",
+    "part_of_speech": "n",
+    "primary_def": "art",
+    "secondary_def": "craft, technique, technology, engineering, skill"
+  },
+  {
+    "kanji": "押し入れ, 押入, 押入れ",
+    "furigana": "おしいれ",
+    "part_of_speech": "n",
+    "primary_def": "(Japanese-style) closet",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "指",
+    "furigana": "ゆび, および, おゆび",
+    "part_of_speech": "n",
+    "primary_def": "finger",
+    "secondary_def": "toe, digit"
+  },
+  {
+    "kanji": "指輪",
+    "furigana": "ゆびわ",
+    "part_of_speech": "n",
+    "primary_def": "(finger) ring",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "政治",
+    "furigana": "せいじ",
+    "part_of_speech": "n",
+    "primary_def": "politics",
+    "secondary_def": "government"
+  },
+  {
+    "kanji": "数学",
+    "furigana": "すうがく",
+    "part_of_speech": "n",
+    "primary_def": "mathematics",
+    "secondary_def": "arithmetic"
+  },
+  {
+    "kanji": "文化",
+    "furigana": "ぶんか",
+    "part_of_speech": "n",
+    "primary_def": "culture",
+    "secondary_def": "civerblization, civerblisation, Bunka era (1804.2.11-1818.4.22)"
+  },
+  {
+    "kanji": "文学",
+    "furigana": "ぶんがく",
+    "part_of_speech": "n",
+    "primary_def": "literature",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "新聞社",
+    "furigana": "しんぶんしゃ",
+    "part_of_speech": "n",
+    "primary_def": "newspaper company",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "旅館",
+    "furigana": "りょかん",
+    "part_of_speech": "n",
+    "primary_def": "Japanese hotel",
+    "secondary_def": "inn, ryokan"
+  },
+  {
+    "kanji": "日記",
+    "furigana": "にっき",
+    "part_of_speech": "n",
+    "primary_def": "diary",
+    "secondary_def": "journal"
+  },
+  {
+    "kanji": "星",
+    "furigana": "ほし",
+    "part_of_speech": "n",
+    "primary_def": "star",
+    "secondary_def": "any light-emitting (or reflecting) heavenly body (except for the sun and the moon), suspect (police slang)"
+  },
+  {
+    "kanji": "木綿, 木棉",
+    "furigana": "もめん, きわた",
+    "part_of_speech": "n",
+    "primary_def": "cotton (material)",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "林",
+    "furigana": "はやし",
+    "part_of_speech": "n",
+    "primary_def": "woods",
+    "secondary_def": "forest, copse, thicket"
+  },
+  {
+    "kanji": "枝",
+    "furigana": "えだ",
+    "part_of_speech": "n",
+    "primary_def": "branch",
+    "secondary_def": "bow, bough, twig, limb"
+  },
+  {
+    "kanji": "柔道",
+    "furigana": "じゅうどう",
+    "part_of_speech": "n",
+    "primary_def": "judo",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "校長",
+    "furigana": "こうちょう",
+    "part_of_speech": "n",
+    "primary_def": "principal",
+    "secondary_def": "headmaster"
+  },
+  {
+    "kanji": "棚",
+    "furigana": "たな",
+    "part_of_speech": "n",
+    "primary_def": "shelf",
+    "secondary_def": "shelves, ledge, rack, trellis"
+  },
+  {
+    "kanji": "森",
+    "furigana": "もり",
+    "part_of_speech": "n",
+    "primary_def": "forest",
+    "secondary_def": "shrine grove"
+  },
+  {
+    "kanji": "機会",
+    "furigana": "きかい",
+    "part_of_speech": "n",
+    "primary_def": "chance",
+    "secondary_def": "opportunity"
+  },
+  {
+    "kanji": "正月",
+    "furigana": "しょうがつ",
+    "part_of_speech": "n",
+    "primary_def": "New Year",
+    "secondary_def": "New Year's Day, the first month, January"
+  },
+  {
+    "kanji": "歯医者",
+    "furigana": "はいしゃ",
+    "part_of_speech": "n",
+    "primary_def": "dentist",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "毛",
+    "furigana": "け",
+    "part_of_speech": "n",
+    "primary_def": "hair",
+    "secondary_def": "fur"
+  },
+  {
+    "kanji": "気",
+    "furigana": "き",
+    "part_of_speech": "n",
+    "primary_def": "spirit",
+    "secondary_def": "mind, heart, nature, disposition, motivation, intention, mood, feelings, atmosphere, essence"
+  },
+  {
+    "kanji": "気分",
+    "furigana": "きぶん",
+    "part_of_speech": "n",
+    "primary_def": "feeling",
+    "secondary_def": "mood"
+  },
+  {
+    "kanji": "気持ち, 気持",
+    "furigana": "きもち",
+    "part_of_speech": "n",
+    "primary_def": "feeling",
+    "secondary_def": "sensation, mood"
+  },
+  {
+    "kanji": "水道",
+    "furigana": "すいどう",
+    "part_of_speech": "n",
+    "primary_def": "water serverbce",
+    "secondary_def": "water supply"
+  },
+  {
+    "kanji": "汽車",
+    "furigana": "きしゃ",
+    "part_of_speech": "n",
+    "primary_def": "train (steam)",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "治り",
+    "furigana": "なおり",
+    "part_of_speech": "n",
+    "primary_def": "recovery",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "消しゴム",
+    "furigana": "けしゴム",
+    "part_of_speech": "n",
+    "primary_def": "eraser",
+    "secondary_def": "India rubber"
+  },
+  {
+    "kanji": "港",
+    "furigana": "みなと",
+    "part_of_speech": "n",
+    "primary_def": "harbour",
+    "secondary_def": "harbor, port"
+  },
+  {
+    "kanji": "湖",
+    "furigana": "みずうみ",
+    "part_of_speech": "n",
+    "primary_def": "lake",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "湯",
+    "furigana": "ゆ",
+    "part_of_speech": "n",
+    "primary_def": "hot water",
+    "secondary_def": "hot bath, hot spring, molten iron"
+  },
+  {
+    "kanji": "漫画",
+    "furigana": "まんが",
+    "part_of_speech": "n",
+    "primary_def": "comic",
+    "secondary_def": "cartoon"
+  },
+  {
+    "kanji": "火事",
+    "furigana": "かじ",
+    "part_of_speech": "n",
+    "primary_def": "fire",
+    "secondary_def": "conflagration"
+  },
+  {
+    "kanji": "為, 爲, 為め",
+    "furigana": "ため",
+    "part_of_speech": "n",
+    "primary_def": "good",
+    "secondary_def": "advantage, benefit, welfare, sake, purpose, objective, aim, consequence, result, effect, affecting, regarding, concerning"
+  },
+  {
+    "kanji": "熱",
+    "furigana": "ねつ",
+    "part_of_speech": "n",
+    "primary_def": "heat",
+    "secondary_def": "fever, temperature, zeal, passion, enthusiasm, mania, craze, rage"
+  },
+  {
+    "kanji": "特急",
+    "furigana": "とっきゅう",
+    "part_of_speech": "n",
+    "primary_def": "limited express (train",
+    "secondary_def": "faster than an express),great hurry"
+  },
+  {
+    "kanji": "玩具",
+    "furigana": "おもちゃ, がんぐ",
+    "part_of_speech": "n",
+    "primary_def": "toy",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "理由",
+    "furigana": "りゆう",
+    "part_of_speech": "n",
+    "primary_def": "reason",
+    "secondary_def": "pretext, motive"
+  },
+  {
+    "kanji": "用事",
+    "furigana": "ようじ",
+    "part_of_speech": "n",
+    "primary_def": "tasks",
+    "secondary_def": "things to do, errand, business (to take care of), affairs, engagement"
+  },
+  {
+    "kanji": "番組",
+    "furigana": "ばんぐみ",
+    "part_of_speech": "n",
+    "primary_def": "program (e.g. TV)",
+    "secondary_def": "programme"
+  },
+  {
+    "kanji": "畳, 疊",
+    "furigana": "たたみ",
+    "part_of_speech": "n",
+    "primary_def": "tatami mat",
+    "secondary_def": "Japanese straw floor coverings"
+  },
+  {
+    "kanji": "看護婦",
+    "furigana": "かんごふ",
+    "part_of_speech": "n",
+    "primary_def": "(female) nurse",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "真ん中, 真中, まん中",
+    "furigana": "まんなか, まなか",
+    "part_of_speech": "n",
+    "primary_def": "middle",
+    "secondary_def": "centre, center, mid-way"
+  },
+  {
+    "kanji": "着物",
+    "furigana": "きもの",
+    "part_of_speech": "n",
+    "primary_def": "kimono (or other trad. Japanese clothing)",
+    "secondary_def": "(Japanese) clothing, clothes"
+  },
+  {
+    "kanji": "石",
+    "furigana": "いし",
+    "part_of_speech": "n",
+    "primary_def": "stone",
+    "secondary_def": "gem, jewel"
+  },
+  {
+    "kanji": "砂",
+    "furigana": "すな",
+    "part_of_speech": "n",
+    "primary_def": "sand",
+    "secondary_def": "grit, gold dust, silver dust"
+  },
+  {
+    "kanji": "研究室",
+    "furigana": "けんきゅうしつ",
+    "part_of_speech": "n",
+    "primary_def": "laboratory",
+    "secondary_def": "study room, seminar room, professor's office"
+  },
+  {
+    "kanji": "社会",
+    "furigana": "しゃかい",
+    "part_of_speech": "n",
+    "primary_def": "society",
+    "secondary_def": "public"
+  },
+  {
+    "kanji": "社長",
+    "furigana": "しゃちょう",
+    "part_of_speech": "n",
+    "primary_def": "company president",
+    "secondary_def": "manager, director"
+  },
+  {
+    "kanji": "神社",
+    "furigana": "じんじゃ",
+    "part_of_speech": "n",
+    "primary_def": "Shinto shrine",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "科学",
+    "furigana": "かがく",
+    "part_of_speech": "n",
+    "primary_def": "science",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "積もり, 積り",
+    "furigana": "つもり",
+    "part_of_speech": "n",
+    "primary_def": "intention",
+    "secondary_def": "plan, converbction, belief"
+  },
+  {
+    "kanji": "空気",
+    "furigana": "くうき",
+    "part_of_speech": "n",
+    "primary_def": "air",
+    "secondary_def": "atmosphere"
+  },
+  {
+    "kanji": "空港",
+    "furigana": "くうこう",
+    "part_of_speech": "n",
+    "primary_def": "airport",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "答え, 答",
+    "furigana": "こたえ",
+    "part_of_speech": "n",
+    "primary_def": "response",
+    "secondary_def": "reply, answer, solution"
+  },
+  {
+    "kanji": "米",
+    "furigana": "こめ",
+    "part_of_speech": "n",
+    "primary_def": "(husked grains of) rice",
+    "secondary_def": "88 years old"
+  },
+  {
+    "kanji": "終わり, 終り, 終",
+    "furigana": "おわり",
+    "part_of_speech": "n",
+    "primary_def": "the end",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "絹",
+    "furigana": "きぬ",
+    "part_of_speech": "n",
+    "primary_def": "silk",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "美術展",
+    "furigana": "びじゅつてん",
+    "part_of_speech": "n",
+    "primary_def": "art exhibition",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "美術館",
+    "furigana": "びじゅつかん",
+    "part_of_speech": "n",
+    "primary_def": "art gallery",
+    "secondary_def": "art museum"
+  },
+  {
+    "kanji": "背中, 背なか",
+    "furigana": "せなか",
+    "part_of_speech": "n",
+    "primary_def": "back (of body)",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "腕",
+    "furigana": "うで",
+    "part_of_speech": "n",
+    "primary_def": "arm",
+    "secondary_def": "skill"
+  },
+  {
+    "kanji": "興味",
+    "furigana": "きょうみ",
+    "part_of_speech": "n",
+    "primary_def": "interest (in something)",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "葉",
+    "furigana": "は",
+    "part_of_speech": "n",
+    "primary_def": "leaf",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "葡萄",
+    "furigana": "ぶどう, えび",
+    "part_of_speech": "n",
+    "primary_def": "grape",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "虫",
+    "furigana": "むし",
+    "part_of_speech": "n",
+    "primary_def": "insect",
+    "secondary_def": "bug, cricket, moth, worm"
+  },
+  {
+    "kanji": "血",
+    "furigana": "ち",
+    "part_of_speech": "n",
+    "primary_def": "blood",
+    "secondary_def": "consanguinity"
+  },
+  {
+    "kanji": "表",
+    "furigana": "おもて",
+    "part_of_speech": "n",
+    "primary_def": "surface",
+    "secondary_def": "face (i.e. the verbsible side of an object), front (of a building, etc.), obverse side (i.e. \"head\") of a coin, outside, exterior, appearance, public, first half (of an innings), top (of an inning), cover (for tatami mats, etc.), foreground"
+  },
+  {
+    "kanji": "裏",
+    "furigana": "うら",
+    "part_of_speech": "n",
+    "primary_def": "bottom (or another side that is hidden from verbew)",
+    "secondary_def": "undersurface, opposite side, reverse side, rear, back, behind (the house), lining, inside, out of sight, behind the scenes, proof, opposite (of a prediction, common sense, etc.), inverse (of a hypothesis, etc.), bottom (of an inning), last half (of an inning)"
+  },
+  {
+    "kanji": "規則",
+    "furigana": "きそく",
+    "part_of_speech": "n",
+    "primary_def": "rules",
+    "secondary_def": "regulations, conventions"
+  },
+  {
+    "kanji": "親",
+    "furigana": "おや",
+    "part_of_speech": "n",
+    "primary_def": "parent",
+    "secondary_def": "parents, dealer (in cards), founder, (pet) owner"
+  },
+  {
+    "kanji": "訳",
+    "furigana": "わけ",
+    "part_of_speech": "n",
+    "primary_def": "conclusion from reasoning",
+    "secondary_def": "judgement or calculation based on something read or heard, reason, cause, meaning, circumstances, situation"
+  },
+  {
+    "kanji": "課長",
+    "furigana": "かちょう",
+    "part_of_speech": "n",
+    "primary_def": "section manager",
+    "secondary_def": "section chief"
+  },
+  {
+    "kanji": "講堂",
+    "furigana": "こうどう",
+    "part_of_speech": "n",
+    "primary_def": "auditorium",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "贈り物, 贈物",
+    "furigana": "おくりもの",
+    "part_of_speech": "n",
+    "primary_def": "present",
+    "secondary_def": "gift"
+  },
+  {
+    "kanji": "赤ちゃん",
+    "furigana": "あかちゃん",
+    "part_of_speech": "n",
+    "primary_def": "baby",
+    "secondary_def": "infant"
+  },
+  {
+    "kanji": "赤ん坊",
+    "furigana": "あかんぼう, あかんぼ",
+    "part_of_speech": "n",
+    "primary_def": "baby",
+    "secondary_def": "infant"
+  },
+  {
+    "kanji": "趣味",
+    "furigana": "しゅみ",
+    "part_of_speech": "n",
+    "primary_def": "hobby",
+    "secondary_def": "pastime, tastes, preference, liking"
+  },
+  {
+    "kanji": "踊り",
+    "furigana": "おどり",
+    "part_of_speech": "n",
+    "primary_def": "dance",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "辞典",
+    "furigana": "じてん",
+    "part_of_speech": "n",
+    "primary_def": "dictionary",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "運転手",
+    "furigana": "うんてんしゅ",
+    "part_of_speech": "n",
+    "primary_def": "driver",
+    "secondary_def": "chauffeur"
+  },
+  {
+    "kanji": "道具",
+    "furigana": "どうぐ",
+    "part_of_speech": "n",
+    "primary_def": "tool",
+    "secondary_def": "implement, means"
+  },
+  {
+    "kanji": "部長",
+    "furigana": "ぶちょう",
+    "part_of_speech": "n",
+    "primary_def": "head (chief,  director) of a section or department",
+    "secondary_def": "head of a (school) club, head of a (school) team"
+  },
+  {
+    "kanji": "都",
+    "furigana": "と",
+    "part_of_speech": "n",
+    "primary_def": "metroplitan",
+    "secondary_def": "municipal"
+  },
+  {
+    "kanji": "金持ち, 金持, 銀持",
+    "furigana": "かねもち",
+    "part_of_speech": "n",
+    "primary_def": "rich person",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "鏡",
+    "furigana": "かがみ",
+    "part_of_speech": "n",
+    "primary_def": "mirror",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "雲",
+    "furigana": "くも",
+    "part_of_speech": "n",
+    "primary_def": "cloud",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "電報",
+    "furigana": "でんぽう",
+    "part_of_speech": "n",
+    "primary_def": "telegram",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "電灯",
+    "furigana": "でんとう",
+    "part_of_speech": "n",
+    "primary_def": "electric light",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "飛行場",
+    "furigana": "ひこうじょう",
+    "part_of_speech": "n",
+    "primary_def": "airfield",
+    "secondary_def": "airport"
+  },
+  {
+    "kanji": "食料品",
+    "furigana": "しょくりょうひん",
+    "part_of_speech": "n",
+    "primary_def": "foodstuff",
+    "secondary_def": "groceries"
+  },
+  {
+    "kanji": "首",
+    "furigana": "くび",
+    "part_of_speech": "n",
+    "primary_def": "neck",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "駐車場",
+    "furigana": "ちゅうしゃじょう",
+    "part_of_speech": "n",
+    "primary_def": "parking lot",
+    "secondary_def": "parking place"
+  },
+  {
+    "kanji": "高校",
+    "furigana": "こうこう",
+    "part_of_speech": "n",
+    "primary_def": "(senior) high school (shorter)",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "高校生",
+    "furigana": "こうこうせい",
+    "part_of_speech": "n",
+    "primary_def": "(senior) high school student",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "高等学校",
+    "furigana": "こうとうがっこう",
+    "part_of_speech": "n",
+    "primary_def": "(senior) high school (longer)",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "髪",
+    "furigana": "かみ",
+    "part_of_speech": "n",
+    "primary_def": "hair (on the head)",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "髭",
+    "furigana": "ひげ",
+    "part_of_speech": "n",
+    "primary_def": "moustache",
+    "secondary_def": "beard, whiskers"
+  },
+  {
+    "kanji": "～ちゃん",
+    "furigana": "～ちゃん",
+    "part_of_speech": "n",
+    "primary_def": "verbfix for familiar (female) person",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "～まま",
+    "furigana": "～まま",
+    "part_of_speech": "n",
+    "primary_def": "as it is",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "アクセサリー",
+    "furigana": "アクセサリー",
+    "part_of_speech": "n",
+    "primary_def": "accessory",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "アナウンサー",
+    "furigana": "アナウンサー",
+    "part_of_speech": "n",
+    "primary_def": "announcer",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "アフリカ",
+    "furigana": "アフリカ",
+    "part_of_speech": "n",
+    "primary_def": "Africa",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "アメリカ",
+    "furigana": "アメリカ",
+    "part_of_speech": "n",
+    "primary_def": "America",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "アルコール",
+    "furigana": "アルコール",
+    "part_of_speech": "n",
+    "primary_def": "alcohol",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "アルバイト",
+    "furigana": "アルバイト",
+    "part_of_speech": "n",
+    "primary_def": "part-time job",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "うん",
+    "furigana": "うん",
+    "part_of_speech": "n",
+    "primary_def": "yes (informal)",
+    "secondary_def": "alright"
+  },
+  {
+    "kanji": "エスカレーター",
+    "furigana": "エスカレーター",
+    "part_of_speech": "n",
+    "primary_def": "escalator",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "オートバイ",
+    "furigana": "オートバイ",
+    "part_of_speech": "n",
+    "primary_def": "motorcycle (lit: auto-bi(ke))",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "ガス",
+    "furigana": "ガス",
+    "part_of_speech": "n",
+    "primary_def": "gas",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "ガソリン",
+    "furigana": "ガソリン",
+    "part_of_speech": "n",
+    "primary_def": "gasoline",
+    "secondary_def": "petrol"
+  },
+  {
+    "kanji": "ガソリンスタンド",
+    "furigana": "ガソリンスタンド",
+    "part_of_speech": "n",
+    "primary_def": "gasoline stand",
+    "secondary_def": "gas station,petrol station"
+  },
+  {
+    "kanji": "ガラス",
+    "furigana": "ガラス",
+    "part_of_speech": "n",
+    "primary_def": "glass",
+    "secondary_def": "pane"
+  },
+  {
+    "kanji": "カーテン",
+    "furigana": "カーテン",
+    "part_of_speech": "n",
+    "primary_def": "curtain",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "ケーキ",
+    "furigana": "ケーキ",
+    "part_of_speech": "n",
+    "primary_def": "cake",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "こっち",
+    "furigana": "こっち",
+    "part_of_speech": "n",
+    "primary_def": "this person",
+    "secondary_def": "this direction,this side,thereafter"
+  },
+  {
+    "kanji": "こと",
+    "furigana": "こと",
+    "part_of_speech": "n",
+    "primary_def": "thing",
+    "secondary_def": "matter,fact"
+  },
+  {
+    "kanji": "ごみ",
+    "furigana": "ごみ",
+    "part_of_speech": "n",
+    "primary_def": "rubbish",
+    "secondary_def": "trash,garbage"
+  },
+  {
+    "kanji": "コンサート",
+    "furigana": "コンサート",
+    "part_of_speech": "n",
+    "primary_def": "concert",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "コンピュータ/コンピューター",
+    "furigana": "コンピュータ/コンピューター",
+    "part_of_speech": "n",
+    "primary_def": "computer",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "さっき",
+    "furigana": "さっき",
+    "part_of_speech": "n",
+    "primary_def": "some time ago",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "サラダ",
+    "furigana": "サラダ",
+    "part_of_speech": "n",
+    "primary_def": "salad",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "サンダル",
+    "furigana": "サンダル",
+    "part_of_speech": "n",
+    "primary_def": "sandal",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "サンドイッチ",
+    "furigana": "サンドイッチ",
+    "part_of_speech": "n",
+    "primary_def": "sandwich",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "ジャム",
+    "furigana": "ジャム",
+    "part_of_speech": "n",
+    "primary_def": "jam",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "スクリーン",
+    "furigana": "スクリーン",
+    "part_of_speech": "n",
+    "primary_def": "screen",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "ステレオ",
+    "furigana": "ステレオ",
+    "part_of_speech": "n",
+    "primary_def": "stereo",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "ステーキ",
+    "furigana": "ステーキ",
+    "part_of_speech": "n",
+    "primary_def": "steak",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "すり",
+    "furigana": "すり",
+    "part_of_speech": "n",
+    "primary_def": "pickpocket",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "スーツ",
+    "furigana": "スーツ",
+    "part_of_speech": "n",
+    "primary_def": "suit",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "スーツケース",
+    "furigana": "スーツケース",
+    "part_of_speech": "n",
+    "primary_def": "suitcase",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "スーパー（マーケット）",
+    "furigana": "スーパー（マーケット）",
+    "part_of_speech": "n",
+    "primary_def": "super (market)",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "ソフト",
+    "furigana": "ソフト",
+    "part_of_speech": "n",
+    "primary_def": "soft",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "そろそろ",
+    "furigana": "そろそろ",
+    "part_of_speech": "n",
+    "primary_def": "gradually",
+    "secondary_def": "steadily,soon"
+  },
+  {
+    "kanji": "タイプ",
+    "furigana": "タイプ",
+    "part_of_speech": "n",
+    "primary_def": "type",
+    "secondary_def": "style"
+  },
+  {
+    "kanji": "チェック・する",
+    "furigana": "チェック・する",
+    "part_of_speech": "n",
+    "primary_def": "check",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "テキスト",
+    "furigana": "テキスト",
+    "part_of_speech": "n",
+    "primary_def": "(1)text",
+    "secondary_def": "(2)text book"
+  },
+  {
+    "kanji": "テニス",
+    "furigana": "テニス",
+    "part_of_speech": "n",
+    "primary_def": "tennis",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "のど",
+    "furigana": "のど",
+    "part_of_speech": "n",
+    "primary_def": "throat",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "はず",
+    "furigana": "はず",
+    "part_of_speech": "n",
+    "primary_def": "it should be so",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "パソコン",
+    "furigana": "パソコン",
+    "part_of_speech": "n",
+    "primary_def": "(personal) computer",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "パパ",
+    "furigana": "パパ",
+    "part_of_speech": "n",
+    "primary_def": "papa",
+    "secondary_def": "father"
+  },
+  {
+    "kanji": "ハンバーグ",
+    "furigana": "ハンバーグ",
+    "part_of_speech": "n",
+    "primary_def": "hamburger (meat , no bun)",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "ピアノ",
+    "furigana": "ピアノ",
+    "part_of_speech": "n",
+    "primary_def": "piano",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "ビル",
+    "furigana": "ビル",
+    "part_of_speech": "n",
+    "primary_def": "(abbr) building",
+    "secondary_def": "bill"
+  },
+  {
+    "kanji": "プレゼント",
+    "furigana": "プレゼント",
+    "part_of_speech": "n",
+    "primary_def": "present",
+    "secondary_def": "gift"
+  },
+  {
+    "kanji": "ベル",
+    "furigana": "ベル",
+    "part_of_speech": "n",
+    "primary_def": "bell",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "レジ",
+    "furigana": "レジ",
+    "part_of_speech": "n",
+    "primary_def": "register",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "レポート/リポート",
+    "furigana": "レポート/リポート",
+    "part_of_speech": "n",
+    "primary_def": "report",
+    "secondary_def": "essay,assignment (aus)"
+  },
+  {
+    "kanji": "ワープロ",
+    "furigana": "ワープロ",
+    "part_of_speech": "n",
+    "primary_def": "word processor",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "一度",
+    "furigana": "いちど",
+    "part_of_speech": "n-adv",
+    "primary_def": "once",
+    "secondary_def": "one time, on one occasion, temporarily, for a moment, one degree, one tone, one musical interval"
+  },
+  {
+    "kanji": "以下",
+    "furigana": "いか",
+    "part_of_speech": "n-adv",
+    "primary_def": "not exceeding",
+    "secondary_def": "and downward, ... and below, below (e.g. standard), under (e.g. a level), the below-mentioned, the following, the rest"
+  },
+  {
+    "kanji": "以外",
+    "furigana": "いがい",
+    "part_of_speech": "n-adv",
+    "primary_def": "with the exception of",
+    "secondary_def": "excepting"
+  },
+  {
+    "kanji": "このあいだ",
+    "furigana": "このあいだ",
+    "part_of_speech": "n-adv",
+    "primary_def": "the other day",
+    "secondary_def": "recently"
+  },
+  {
+    "kanji": "場合",
+    "furigana": "ばあい",
+    "part_of_speech": "n-adv, n",
+    "primary_def": "case",
+    "secondary_def": "situation"
+  },
+  {
+    "kanji": "この頃",
+    "furigana": "このごろ, このころ",
+    "part_of_speech": "n-adv, n-t",
+    "primary_def": "recently",
+    "secondary_def": "nowadays, these days, now, at present"
+  },
+  {
+    "kanji": "今夜",
+    "furigana": "こんや",
+    "part_of_speech": "n-adv, n-t",
+    "primary_def": "this evening",
+    "secondary_def": "tonight"
+  },
+  {
+    "kanji": "今度",
+    "furigana": "こんど",
+    "part_of_speech": "n-adv, n-t",
+    "primary_def": "now",
+    "secondary_def": "this time, next time, another time"
+  },
+  {
+    "kanji": "以上, 已上",
+    "furigana": "いじょう",
+    "part_of_speech": "n-adv, n-t",
+    "primary_def": "not less than",
+    "secondary_def": "this is all, … and more, ... and upwards, beyond ... (e.g. one's means), further (e.g. nothing further to say), more than ... (e.g. cannot pay more than that), above-mentioned, foregoing, since ..., seeing that ..., that is the end, the end"
+  },
+  {
+    "kanji": "再来月, さ来月",
+    "furigana": "さらいげつ",
+    "part_of_speech": "n-adv, n-t",
+    "primary_def": "month after next",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "再来週, さ来週",
+    "furigana": "さらいしゅう",
+    "part_of_speech": "n-adv, n-t",
+    "primary_def": "week after next",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "大体",
+    "furigana": "だいたい",
+    "part_of_speech": "n-adv, n-t",
+    "primary_def": "general",
+    "secondary_def": "substantially, outline, main point, approximately, about"
+  },
+  {
+    "kanji": "将来",
+    "furigana": "しょうらい",
+    "part_of_speech": "n-adv, n-t",
+    "primary_def": "future (usually near)",
+    "secondary_def": "prospects"
+  },
+  {
+    "kanji": "日, 陽",
+    "furigana": "ひ",
+    "part_of_speech": "n-adv, n-t",
+    "primary_def": "day",
+    "secondary_def": "days, sun, sunshine, sunlight, case (esp. unfortunate), event"
+  },
+  {
+    "kanji": "昼休み",
+    "furigana": "ひるやすみ",
+    "part_of_speech": "n-adv, n-t",
+    "primary_def": "lunch break",
+    "secondary_def": "noon recess, noon rest period"
+  },
+  {
+    "kanji": "昼間",
+    "furigana": "ひるま, ちゅうかん",
+    "part_of_speech": "n-adv, n-t",
+    "primary_def": "daytime",
+    "secondary_def": "during the day, time from sunrise until sunset, diurnal period"
+  },
+  {
+    "kanji": "途中",
+    "furigana": "とちゅう",
+    "part_of_speech": "n-adv, n-t",
+    "primary_def": "on the way",
+    "secondary_def": "en route, in the middle of, midway"
+  },
+  {
+    "kanji": "ほとんど",
+    "furigana": "ほとんど",
+    "part_of_speech": "n-adv, n-t",
+    "primary_def": "mostly",
+    "secondary_def": "nearly, practically, well-nigh, almost invariably, all but, just about, almost"
+  },
+  {
+    "kanji": "間",
+    "furigana": "あいだ",
+    "part_of_speech": "n-adv, n, n-adv, n-t, n-adv, n, n-t, n-adv, n, conj",
+    "primary_def": "space (between)",
+    "secondary_def": "gap, interval, distance, time (between), pause, break, span (temporal or spatial), stretch, period (while), relationship (between, among), members (within, among)"
+  },
+  {
+    "kanji": "通り",
+    "furigana": "とおり",
+    "part_of_speech": "n-adv, n, n-verb",
+    "primary_def": "avenue",
+    "secondary_def": "street, way"
+  },
+  {
+    "kanji": "程",
+    "furigana": "ほど",
+    "part_of_speech": "n-adv, n, prt",
+    "primary_def": "degree",
+    "secondary_def": "extent, bounds, limit, indicates approx. amount or maximum, upper limit"
+  },
+  {
+    "kanji": "パート（タイム）",
+    "furigana": "パート（タイム）",
+    "part_of_speech": "n-adv,n",
+    "primary_def": "part time (esp female part time employees)",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "～君",
+    "furigana": "～くん",
+    "part_of_speech": "n-verb",
+    "primary_def": "Mr (junior) ～",
+    "secondary_def": "master ～"
+  },
+  {
+    "kanji": "～員",
+    "furigana": "～いん",
+    "part_of_speech": "n-verb",
+    "primary_def": "member of ～",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "～様",
+    "furigana": "～さま",
+    "part_of_speech": "n-verb",
+    "primary_def": "Mr or Mrs ～",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "店",
+    "furigana": "てん",
+    "part_of_speech": "n-verb",
+    "primary_def": "-store",
+    "secondary_def": "-shop"
+  },
+  {
+    "kanji": "様",
+    "furigana": "よう",
+    "part_of_speech": "n-verb, n, n",
+    "primary_def": "(usu. after the -masu stem of a verb) appearing ...",
+    "secondary_def": "looking ..., (usu. after the -masu stem of a verb) way to ..., method of ...ing, (usu. after a noun) form, style, design, (usu. after a noun) like, similar to, thing (thought or spoken)"
+  },
+  {
+    "kanji": "明日",
+    "furigana": "あした, あす, みょうにち",
+    "part_of_speech": "n-t",
+    "primary_def": "tomorrow",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "これから",
+    "furigana": "これから",
+    "part_of_speech": "n-t",
+    "primary_def": "after this",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "時代",
+    "furigana": "じだい",
+    "part_of_speech": "n-t, n",
+    "primary_def": "period",
+    "secondary_def": "epoch, era, age, the times, those days, oldness, ancientness, antiquity, antique, period piece"
+  },
+  {
+    "kanji": "この間",
+    "furigana": "このあいだん",
+    "part_of_speech": "n-t, n-adv",
+    "primary_def": "the other day",
+    "secondary_def": "lately, recently, during this period, meanwhile, in the meantime"
+  },
+  {
+    "kanji": "～月",
+    "furigana": "～つき",
+    "part_of_speech": "n-temp",
+    "primary_def": "month",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "両方",
+    "furigana": "りょうほう",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "both sides",
+    "secondary_def": "both parties"
+  },
+  {
+    "kanji": "亜細亜",
+    "furigana": "アジア, あじあ",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "Asia (esp. \"the Far East\")",
+    "secondary_def": "Asian, Asiatic"
+  },
+  {
+    "kanji": "(1)代わり",
+    "furigana": "かわり",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "substitute",
+    "secondary_def": "replacement, substituting, replacing, stand-in, proxy, alternate, deputy, relief, successor, compensation, exchange, return"
+  },
+  {
+    "kanji": "(2)代わり",
+    "furigana": "かわり",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "second helping",
+    "secondary_def": "another cup, seconds"
+  },
+  {
+    "kanji": "国際",
+    "furigana": "こくさい",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "international",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "売り場, 売場",
+    "furigana": "うりば",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "place where things are sold",
+    "secondary_def": "point of sale, POS, sales floor, counter (in shop)"
+  },
+  {
+    "kanji": "女性",
+    "furigana": "じょせい",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "woman",
+    "secondary_def": "female, feminine gender"
+  },
+  {
+    "kanji": "季節",
+    "furigana": "きせつ",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "season",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "専門, 專門",
+    "furigana": "せんもん",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "specialty",
+    "secondary_def": "speciality, study major, expert"
+  },
+  {
+    "kanji": "小説",
+    "furigana": "しょうせつ",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "novel",
+    "secondary_def": "(short) story"
+  },
+  {
+    "kanji": "店員",
+    "furigana": "てんいん",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "shop assistant",
+    "secondary_def": "employee, clerk, salesperson"
+  },
+  {
+    "kanji": "教会",
+    "furigana": "きょうかい",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "church",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "文法",
+    "furigana": "ぶんぽう",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "grammar",
+    "secondary_def": "syntax"
+  },
+  {
+    "kanji": "景色",
+    "furigana": "けしき",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "scenery",
+    "secondary_def": "scene, landscape"
+  },
+  {
+    "kanji": "歴史",
+    "furigana": "れきし",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "history",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "法律",
+    "furigana": "ほうりつ",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "law",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "海岸",
+    "furigana": "かいがん",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "coast",
+    "secondary_def": "beach"
+  },
+  {
+    "kanji": "玄関, 玄關",
+    "furigana": "げんかん",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "(Japanese-style) entrance way",
+    "secondary_def": "entry hall, vestibule, foyer, entryway, mud room"
+  },
+  {
+    "kanji": "産業",
+    "furigana": "さんぎょう",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "industry",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "田舎",
+    "furigana": "いなか",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "rural area",
+    "secondary_def": "countryside, the sticks, hometown"
+  },
+  {
+    "kanji": "男性",
+    "furigana": "だんせい",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "man",
+    "secondary_def": "male, masculine gender"
+  },
+  {
+    "kanji": "祖母",
+    "furigana": "そぼ, ばば, おおば, おば, うば",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "grandmother",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "祖父",
+    "furigana": "そふ, じじ, じい, おおじ, おじ, そぶ",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "grandfather",
+    "secondary_def": "old man"
+  },
+  {
+    "kanji": "習慣",
+    "furigana": "しゅうかん",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "custom",
+    "secondary_def": "habit, manners"
+  },
+  {
+    "kanji": "西洋",
+    "furigana": "せいよう",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "the west",
+    "secondary_def": "Western countries"
+  },
+  {
+    "kanji": "警察",
+    "furigana": "けいさつ",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "police",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "近所",
+    "furigana": "きんじょ",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "neighborhood",
+    "secondary_def": "neighbourhood"
+  },
+  {
+    "kanji": "郊外",
+    "furigana": "こうがい",
+    "part_of_speech": "n, adj-no",
+    "primary_def": "suburb",
+    "secondary_def": "outskirts"
+  },
+  {
+    "kanji": "危険",
+    "furigana": "きけん",
+    "part_of_speech": "n, adj-no, adj-na",
+    "primary_def": "danger",
+    "secondary_def": "peril, hazard, dangerous, hazardous"
+  },
+  {
+    "kanji": "最後",
+    "furigana": "さいご",
+    "part_of_speech": "n, adj-no, exp",
+    "primary_def": "last",
+    "secondary_def": "end, conclusion, latest, most recent, (after -tara form or -ta form followed by \"ga\") no sooner than, right after (often haverbng negative consequences), one's final moments"
+  },
+  {
+    "kanji": "内, 中",
+    "furigana": "うち",
+    "part_of_speech": "n, adj-no, pn, adj-no, n, pn, adj-no",
+    "primary_def": "inside",
+    "secondary_def": "within, while, among, amongst, between"
+  },
+  {
+    "kanji": "失敗",
+    "furigana": "しっぱい",
+    "part_of_speech": "n, adj-no, vs",
+    "primary_def": "failure",
+    "secondary_def": "mistake, blunder"
+  },
+  {
+    "kanji": "教育",
+    "furigana": "きょういく",
+    "part_of_speech": "n, adj-no, vs",
+    "primary_def": "training",
+    "secondary_def": "education"
+  },
+  {
+    "kanji": "競争",
+    "furigana": "きょうそう",
+    "part_of_speech": "n, adj-no, vs",
+    "primary_def": "competition",
+    "secondary_def": "contest, to compete"
+  },
+  {
+    "kanji": "以内",
+    "furigana": "いない",
+    "part_of_speech": "n, n-verb",
+    "primary_def": "within",
+    "secondary_def": "inside of, less than"
+  },
+  {
+    "kanji": "回り, 周り",
+    "furigana": "まわり",
+    "part_of_speech": "n, n-verb",
+    "primary_def": "circumference",
+    "secondary_def": "perimeter, edge, surroundings, locality, neighborhood, rotation, circulation"
+  },
+  {
+    "kanji": "市",
+    "furigana": "し",
+    "part_of_speech": "n, n-verb",
+    "primary_def": "city",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "火",
+    "furigana": "ひ",
+    "part_of_speech": "n, n-verb",
+    "primary_def": "fire",
+    "secondary_def": "flame, blaze"
+  },
+  {
+    "kanji": "用",
+    "furigana": "よう",
+    "part_of_speech": "n, n-verb",
+    "primary_def": "task",
+    "secondary_def": "business, use, duty, serverbce, call of nature, excretion"
+  },
+  {
+    "kanji": "糸",
+    "furigana": "いと",
+    "part_of_speech": "n, n-verb",
+    "primary_def": "thread",
+    "secondary_def": "yarn, string"
+  },
+  {
+    "kanji": "線",
+    "furigana": "せん",
+    "part_of_speech": "n, n-verb",
+    "primary_def": "line",
+    "secondary_def": "stripe, line (e.g. telephone line), wire, ray (e.g. X-ray), beam, line (e.g. of a railroad), track, route, lane, outline, contours, form, level, diverbsion, line (of action), position, approach, policy, principle"
+  },
+  {
+    "kanji": "遊び",
+    "furigana": "あそび",
+    "part_of_speech": "n, n-verb",
+    "primary_def": "playing",
+    "secondary_def": "play"
+  },
+  {
+    "kanji": "音",
+    "furigana": "おと, ね, おん",
+    "part_of_speech": "n, n-verb",
+    "primary_def": "sound",
+    "secondary_def": "noise, report, note (music), fame, Chinese-derived character reading"
+  },
+  {
+    "kanji": "船, 舟",
+    "furigana": "ふね",
+    "part_of_speech": "n, n-verb, ctr",
+    "primary_def": "ship",
+    "secondary_def": "boat, watercraft, vessel, steamship, tank, tub, vat, trough, counter for boat-shaped containers (e.g. of sashimi)"
+  },
+  {
+    "kanji": "隅, 角",
+    "furigana": "すみ, すま",
+    "part_of_speech": "n, n-verb, n",
+    "primary_def": "corner",
+    "secondary_def": "nook, recess, downstage right (on a noh stage)"
+  },
+  {
+    "kanji": "子, 児",
+    "furigana": "こ",
+    "part_of_speech": "n, n-verb, n-verb",
+    "primary_def": "child",
+    "secondary_def": "young (animal), young woman, young geisha, offshoot, interest, new shares, bird egg, (after a noun or -masu stem) -er (often of young women)"
+  },
+  {
+    "kanji": "月",
+    "furigana": "つき",
+    "part_of_speech": "n, n-t",
+    "primary_def": "moon",
+    "secondary_def": "month"
+  },
+  {
+    "kanji": "(1)方",
+    "furigana": "かた",
+    "part_of_speech": "n, n, n-verb, n-verb",
+    "primary_def": "(hon) person",
+    "secondary_def": "lady, gentleman"
+  },
+  {
+    "kanji": "(2)方",
+    "furigana": "かた",
+    "part_of_speech": "n, n, n-verb, n-verb",
+    "primary_def": "way of doing",
+    "secondary_def": "method of, manner of, direction, way"
+  },
+  {
+    "kanji": "受付",
+    "furigana": "うけつけ",
+    "part_of_speech": "n, n, vs",
+    "primary_def": "reception (desk)",
+    "secondary_def": "information desk, receipt, acceptance"
+  },
+  {
+    "kanji": "お宅, 御宅",
+    "furigana": "おたく",
+    "part_of_speech": "n, pn, adj-no",
+    "primary_def": "your house",
+    "secondary_def": "your home, your family, your husband, your organization, you (referring to someone of equal status with whom one is not especially close)"
+  },
+  {
+    "kanji": "草",
+    "furigana": "くさ",
+    "part_of_speech": "n, pref",
+    "primary_def": "grass",
+    "secondary_def": "weed, herb, thatch, ninja, not genuine, substandard"
+  },
+  {
+    "kanji": "倍",
+    "furigana": "ばい",
+    "part_of_speech": "n, verb",
+    "primary_def": "twice",
+    "secondary_def": "double, times, -fold"
+  },
+  {
+    "kanji": "(2)君",
+    "furigana": "くん",
+    "part_of_speech": "n, verb",
+    "primary_def": "Mr (junior)",
+    "secondary_def": "verbfix for familiar young man, master, boy"
+  },
+  {
+    "kanji": "お祝い",
+    "furigana": "おいわい",
+    "part_of_speech": "n, vs",
+    "primary_def": "congratulation",
+    "secondary_def": "congratulations, celebration, festival, congratulatory gift"
+  },
+  {
+    "kanji": "ご馳走, 御馳走",
+    "furigana": "ごちそう",
+    "part_of_speech": "n, vs",
+    "primary_def": "feast",
+    "secondary_def": "treating (someone), to treat (someone, e.g. to a meal)"
+  },
+  {
+    "kanji": "下宿",
+    "furigana": "げしゅく",
+    "part_of_speech": "n, vs",
+    "primary_def": "boarding",
+    "secondary_def": "lodging, boarding house"
+  },
+  {
+    "kanji": "世話",
+    "furigana": "せわ",
+    "part_of_speech": "n, vs",
+    "primary_def": "looking after",
+    "secondary_def": "help, aid, assistance"
+  },
+  {
+    "kanji": "予定",
+    "furigana": "よてい",
+    "part_of_speech": "n, vs",
+    "primary_def": "plans",
+    "secondary_def": "arrangement, schedule, program, programme, expectation, estimate"
+  },
+  {
+    "kanji": "予習",
+    "furigana": "よしゅう",
+    "part_of_speech": "n, vs",
+    "primary_def": "preparation for a lesson",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "交通",
+    "furigana": "こうつう",
+    "part_of_speech": "n, vs",
+    "primary_def": "traffic",
+    "secondary_def": "transportation, communication, exchange (of ideas, etc.), intercourse"
+  },
+  {
+    "kanji": "会話",
+    "furigana": "かいわ",
+    "part_of_speech": "n, vs",
+    "primary_def": "conversation",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "入学",
+    "furigana": "にゅうがく",
+    "part_of_speech": "n, vs",
+    "primary_def": "entry to school or university",
+    "secondary_def": "matriculation"
+  },
+  {
+    "kanji": "入院",
+    "furigana": "にゅういん",
+    "part_of_speech": "n, vs",
+    "primary_def": "hospitalization",
+    "secondary_def": "hospitalisation"
+  },
+  {
+    "kanji": "冷房",
+    "furigana": "れいぼう",
+    "part_of_speech": "n, vs",
+    "primary_def": "cooling",
+    "secondary_def": "air-conditioning"
+  },
+  {
+    "kanji": "出席",
+    "furigana": "しゅっせき",
+    "part_of_speech": "n, vs",
+    "primary_def": "attendance",
+    "secondary_def": "presence, appearance, to attend, to be present, to appear"
+  },
+  {
+    "kanji": "出発",
+    "furigana": "しゅっぱつ",
+    "part_of_speech": "n, vs",
+    "primary_def": "departure",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "利用",
+    "furigana": "りよう",
+    "part_of_speech": "n, vs",
+    "primary_def": "use",
+    "secondary_def": "utilization, utilisation, application"
+  },
+  {
+    "kanji": "原因",
+    "furigana": "げんいん",
+    "part_of_speech": "n, vs",
+    "primary_def": "cause",
+    "secondary_def": "origin, source"
+  },
+  {
+    "kanji": "喧嘩, 諠譁",
+    "furigana": "けんか",
+    "part_of_speech": "n, vs",
+    "primary_def": "quarrel",
+    "secondary_def": "brawl, fight, squabble, scuffle"
+  },
+  {
+    "kanji": "復習",
+    "furigana": "ふくしゅう",
+    "part_of_speech": "n, vs",
+    "primary_def": "reverbew",
+    "secondary_def": "reverbsion"
+  },
+  {
+    "kanji": "怪我",
+    "furigana": "けが",
+    "part_of_speech": "n, vs",
+    "primary_def": "injury (to animate object)",
+    "secondary_def": "hurt"
+  },
+  {
+    "kanji": "戦争",
+    "furigana": "せんそう",
+    "part_of_speech": "n, vs",
+    "primary_def": "war",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "承知",
+    "furigana": "しょうち",
+    "part_of_speech": "n, vs",
+    "primary_def": "acknowledgment",
+    "secondary_def": "acknowledgement, awareness, consent, acceptance, assent, admitting, compliance, agreement"
+  },
+  {
+    "kanji": "拝見",
+    "furigana": "はいけん",
+    "part_of_speech": "n, vs",
+    "primary_def": "(hum) seeing",
+    "secondary_def": "look at"
+  },
+  {
+    "kanji": "支度, 仕度",
+    "furigana": "したく",
+    "part_of_speech": "n, vs",
+    "primary_def": "preparation",
+    "secondary_def": "arrangements"
+  },
+  {
+    "kanji": "故障",
+    "furigana": "こしょう",
+    "part_of_speech": "n, vs",
+    "primary_def": "break-down",
+    "secondary_def": "failure, fault, accident, out of order"
+  },
+  {
+    "kanji": "暖房",
+    "furigana": "だんぼう",
+    "part_of_speech": "n, vs",
+    "primary_def": "heating",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "案内",
+    "furigana": "あんない",
+    "part_of_speech": "n, vs",
+    "primary_def": "information",
+    "secondary_def": "guidance, leading, to guide, to show (around), to conduct"
+  },
+  {
+    "kanji": "泥棒",
+    "furigana": "どろぼう",
+    "part_of_speech": "n, vs",
+    "primary_def": "thief",
+    "secondary_def": "burglar, robber, theft"
+  },
+  {
+    "kanji": "注射",
+    "furigana": "ちゅうしゃ",
+    "part_of_speech": "n, vs",
+    "primary_def": "injection",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "注意",
+    "furigana": "ちゅうい",
+    "part_of_speech": "n, vs",
+    "primary_def": "caution",
+    "secondary_def": "being careful, attention (heed), warning, adverbce"
+  },
+  {
+    "kanji": "準備",
+    "furigana": "じゅんび",
+    "part_of_speech": "n, vs",
+    "primary_def": "preparation",
+    "secondary_def": "setup, arrangements, proverbsion, reserve"
+  },
+  {
+    "kanji": "生活",
+    "furigana": "せいかつ",
+    "part_of_speech": "n, vs",
+    "primary_def": "liverbng",
+    "secondary_def": "life (one's daily existence), livelihood"
+  },
+  {
+    "kanji": "生産",
+    "furigana": "せいさん",
+    "part_of_speech": "n, vs",
+    "primary_def": "production",
+    "secondary_def": "manufacture"
+  },
+  {
+    "kanji": "用意",
+    "furigana": "ようい",
+    "part_of_speech": "n, vs",
+    "primary_def": "preparation",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "留守, 留主",
+    "furigana": "るす",
+    "part_of_speech": "n, vs",
+    "primary_def": "absence",
+    "secondary_def": "being away from home, house-sitting, house-sitter, being left unattended to (of one's studies, etc.), neglecting"
+  },
+  {
+    "kanji": "相談",
+    "furigana": "そうだん",
+    "part_of_speech": "n, vs",
+    "primary_def": "consultation",
+    "secondary_def": "discussion"
+  },
+  {
+    "kanji": "研究",
+    "furigana": "けんきゅう",
+    "part_of_speech": "n, vs",
+    "primary_def": "study",
+    "secondary_def": "research, investigation"
+  },
+  {
+    "kanji": "約束",
+    "furigana": "やくそく",
+    "part_of_speech": "n, vs",
+    "primary_def": "arrangement",
+    "secondary_def": "promise, appointment, pact, engagement, convention, rule"
+  },
+  {
+    "kanji": "経済",
+    "furigana": "けいざい",
+    "part_of_speech": "n, vs",
+    "primary_def": "economics",
+    "secondary_def": "business, finance, economy"
+  },
+  {
+    "kanji": "経験",
+    "furigana": "けいけん",
+    "part_of_speech": "n, vs",
+    "primary_def": "experience",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "翻訳",
+    "furigana": "ほんやく",
+    "part_of_speech": "n, vs",
+    "primary_def": "translation",
+    "secondary_def": "de-encryption, deciphering, rendering"
+  },
+  {
+    "kanji": "花見",
+    "furigana": "はなみ",
+    "part_of_speech": "n, vs",
+    "primary_def": "cherry blossom verbewing",
+    "secondary_def": "flower verbewing"
+  },
+  {
+    "kanji": "見物",
+    "furigana": "けんぶつ",
+    "part_of_speech": "n, vs",
+    "primary_def": "sightseeing",
+    "secondary_def": "sightseer, watching, watcher"
+  },
+  {
+    "kanji": "計画",
+    "furigana": "けいかく",
+    "part_of_speech": "n, vs",
+    "primary_def": "plan",
+    "secondary_def": "project, schedule, scheme, program, programme"
+  },
+  {
+    "kanji": "試合, 仕合",
+    "furigana": "しあい",
+    "part_of_speech": "n, vs",
+    "primary_def": "match",
+    "secondary_def": "game, bout, contest"
+  },
+  {
+    "kanji": "試験",
+    "furigana": "しけん",
+    "part_of_speech": "n, vs",
+    "primary_def": "examination",
+    "secondary_def": "test, study, trial, experiment"
+  },
+  {
+    "kanji": "講義",
+    "furigana": "こうぎ",
+    "part_of_speech": "n, vs",
+    "primary_def": "lecture",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "貿易",
+    "furigana": "ぼうえき",
+    "part_of_speech": "n, vs",
+    "primary_def": "trade (foreign)",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "返事, 返辞",
+    "furigana": "へんじ",
+    "part_of_speech": "n, vs",
+    "primary_def": "reply",
+    "secondary_def": "answer, response"
+  },
+  {
+    "kanji": "退院",
+    "furigana": "たいいん",
+    "part_of_speech": "n, vs",
+    "primary_def": "leaverbng hospital",
+    "secondary_def": "discharge from hospital"
+  },
+  {
+    "kanji": "運動",
+    "furigana": "うんどう",
+    "part_of_speech": "n, vs",
+    "primary_def": "motion",
+    "secondary_def": "exercise"
+  },
+  {
+    "kanji": "食事",
+    "furigana": "しょくじ",
+    "part_of_speech": "n, vs",
+    "primary_def": "meal",
+    "secondary_def": "to eat"
+  },
+  {
+    "kanji": "失礼",
+    "furigana": "しつれい",
+    "part_of_speech": "n, vs, adj-na, exp, vs",
+    "primary_def": "discourtesy",
+    "secondary_def": "impoliteness, Excuse me, Goodbye, to leave, to be rude"
+  },
+  {
+    "kanji": "予約",
+    "furigana": "よやく",
+    "part_of_speech": "n, vs, adj-no",
+    "primary_def": "reservation",
+    "secondary_def": "appointment, booking, advance order, contract, subscription, pledge"
+  },
+  {
+    "kanji": "会議",
+    "furigana": "かいぎ",
+    "part_of_speech": "n, vs, adj-no",
+    "primary_def": "meeting",
+    "secondary_def": "conference, session, assembly, council, convention, congress"
+  },
+  {
+    "kanji": "卒業",
+    "furigana": "そつぎょう",
+    "part_of_speech": "n, vs, adj-no",
+    "primary_def": "graduation",
+    "secondary_def": "completion (e.g. of a course), outgrowing something, moverbng on"
+  },
+  {
+    "kanji": "急行",
+    "furigana": "きゅうこう",
+    "part_of_speech": "n, vs, adj-no",
+    "primary_def": "express (e.g. train that bypasses many stations)",
+    "secondary_def": "moverbng at high speed"
+  },
+  {
+    "kanji": "意見",
+    "furigana": "いけん",
+    "part_of_speech": "n, vs, adj-no",
+    "primary_def": "opinion",
+    "secondary_def": "verbew, comment"
+  },
+  {
+    "kanji": "招待",
+    "furigana": "しょうたい, しょうだい",
+    "part_of_speech": "n, vs, adj-no",
+    "primary_def": "inverbtation",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "放送",
+    "furigana": "ほうそう",
+    "part_of_speech": "n, vs, adj-no",
+    "primary_def": "broadcast",
+    "secondary_def": "broadcasting"
+  },
+  {
+    "kanji": "水泳",
+    "furigana": "すいえい",
+    "part_of_speech": "n, vs, adj-no",
+    "primary_def": "swimming",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "発音",
+    "furigana": "はつおん",
+    "part_of_speech": "n, vs, adj-no",
+    "primary_def": "pronunciation",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "紹介",
+    "furigana": "しょうかい",
+    "part_of_speech": "n, vs, adj-no",
+    "primary_def": "introduction",
+    "secondary_def": "referral"
+  },
+  {
+    "kanji": "説明",
+    "furigana": "せつめい",
+    "part_of_speech": "n, vs, adj-no",
+    "primary_def": "explanation",
+    "secondary_def": "exposition"
+  },
+  {
+    "kanji": "輸入",
+    "furigana": "ゆにゅう, しゅにゅう",
+    "part_of_speech": "n, vs, adj-no",
+    "primary_def": "importation",
+    "secondary_def": "import, introduction"
+  },
+  {
+    "kanji": "運転",
+    "furigana": "うんてん",
+    "part_of_speech": "n, vs, adj-no",
+    "primary_def": "operation",
+    "secondary_def": "motion, driverbng"
+  },
+  {
+    "kanji": "輸出",
+    "furigana": "ゆしゅつ, しゅしゅつ",
+    "part_of_speech": "n, vs, adj-no, adj-na",
+    "primary_def": "export",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "挨拶",
+    "furigana": "あいさつ",
+    "part_of_speech": "n, vs, adj-no, exp",
+    "primary_def": "greeting",
+    "secondary_def": "greetings, salutation, salute, speech (congratulatory or appreciative), address, reply, response, revenge, retaliation, a fine thing to say (used as part of a sarcastic response to a rude remark)"
+  },
+  {
+    "kanji": "寝坊",
+    "furigana": "ねぼう",
+    "part_of_speech": "n, vs, n",
+    "primary_def": "sleeping in late",
+    "secondary_def": "oversleeping, late riser, sleepyhead"
+  },
+  {
+    "kanji": "関係",
+    "furigana": "かんけい",
+    "part_of_speech": "n, vs, n-verb",
+    "primary_def": "relation",
+    "secondary_def": "relationship, connection, participation, involvement, concern, influence, effect, sexual relations, sexual relationship, related to ..., connected to ..."
+  },
+  {
+    "kanji": "点",
+    "furigana": "てん",
+    "part_of_speech": "n,n-verb",
+    "primary_def": "spot",
+    "secondary_def": "mark,point,dot"
+  },
+  {
+    "kanji": "億",
+    "furigana": "おく",
+    "part_of_speech": "num",
+    "primary_def": 100,
+    "secondary_def": "000,000,hundred million"
+  },
+  {
+    "kanji": "僕",
+    "furigana": "ぼく",
+    "part_of_speech": "pn, adj-no",
+    "primary_def": "I",
+    "secondary_def": "me, you (used addressing young children), manservant"
+  },
+  {
+    "kanji": "(1)君",
+    "furigana": "きみ",
+    "part_of_speech": "pn, adj-no",
+    "primary_def": "you",
+    "secondary_def": "buddy, pal, monarch, ruler, sovereign, (one's) master"
+  },
+  {
+    "kanji": "彼",
+    "furigana": "かれ",
+    "part_of_speech": "pn, adj-no",
+    "primary_def": "he",
+    "secondary_def": "him, his, boyfriend"
+  },
+  {
+    "kanji": "彼ら",
+    "furigana": "かれら",
+    "part_of_speech": "pn, adj-no",
+    "primary_def": "they (usually male)",
+    "secondary_def": "them"
+  },
+  {
+    "kanji": "彼女",
+    "furigana": "かのじょ",
+    "part_of_speech": "pn, adj-no",
+    "primary_def": "she",
+    "secondary_def": "her, girl friend, girlfriend, sweetheart"
+  },
+  {
+    "kanji": "御",
+    "furigana": "ご, お",
+    "part_of_speech": "pref",
+    "primary_def": "honorable",
+    "secondary_def": "honourable"
+  },
+  {
+    "kanji": "つける",
+    "furigana": "つける",
+    "part_of_speech": "ru-v",
+    "primary_def": "to take",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "ファックス",
+    "furigana": "ファックス",
+    "part_of_speech": "ru-v,verb",
+    "primary_def": "fax",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "～始める",
+    "furigana": "～はじめる",
+    "part_of_speech": "ru-v,verb",
+    "primary_def": "to start doing　～",
+    "secondary_def": "the beginning of ～"
+  },
+  {
+    "kanji": "～続ける",
+    "furigana": "～つづける",
+    "part_of_speech": "ru-v,verb",
+    "primary_def": "to continue doing ～",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "～目",
+    "furigana": "～め",
+    "part_of_speech": "verb",
+    "primary_def": "number ～ sequence",
+    "secondary_def": "～nd/th"
+  },
+  {
+    "kanji": "～おわる",
+    "furigana": "～おわる",
+    "part_of_speech": "verb",
+    "primary_def": "end of ～",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "～にくい",
+    "furigana": "～にくい",
+    "part_of_speech": "verb",
+    "primary_def": "difficult to do ～",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "～ばかり",
+    "furigana": "～ばかり",
+    "part_of_speech": "verb",
+    "primary_def": "just did ～",
+    "secondary_def": "only"
+  },
+  {
+    "kanji": "包む",
+    "furigana": "つつむ",
+    "part_of_speech": "u-v",
+    "primary_def": "wrap",
+    "secondary_def": "pack"
+  },
+  {
+    "kanji": "引っ越す",
+    "furigana": "ひっこす",
+    "part_of_speech": "u-v",
+    "primary_def": "to move",
+    "secondary_def": "to change residence"
+  },
+  {
+    "kanji": "（～て）しまう",
+    "furigana": "（～て）しまう",
+    "part_of_speech": "u-v",
+    "primary_def": "to end up ～",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "おいでになる",
+    "furigana": "おいでになる",
+    "part_of_speech": "u-v",
+    "primary_def": "(hon)to be",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "おる",
+    "furigana": "おる",
+    "part_of_speech": "u-v",
+    "primary_def": "to be (polite version of いる)",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "やる",
+    "furigana": "やる",
+    "part_of_speech": "u-v",
+    "primary_def": "(col)to do",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "そんなに",
+    "furigana": "そんなに",
+    "part_of_speech": "uk",
+    "primary_def": "so much",
+    "secondary_def": "like that"
+  },
+  {
+    "kanji": "連れる",
+    "furigana": "つれる",
+    "part_of_speech": "verb",
+    "primary_def": "to lead",
+    "secondary_def": "to take (a person)"
+  },
+  {
+    "kanji": "似る",
+    "furigana": "にる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to resemble",
+    "secondary_def": "to look like, to take after, to be similar (in status, condition, etc.), to be close, to be alike, to be like"
+  },
+  {
+    "kanji": "倒れる",
+    "furigana": "たおれる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to fall",
+    "secondary_def": "to collapse, to drop, to fall senseless, to be forced to bed (by illness, etc.), to die, to go bankrupt, to be ruined, to have a bad debt, to be defeated (in a game), to fall (of governments, dictators, etc.)"
+  },
+  {
+    "kanji": "冷える",
+    "furigana": "ひえる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to grow cold (from room temperature",
+    "secondary_def": "e.g. in refrigerator),to get chilly, to cool down"
+  },
+  {
+    "kanji": "出来る",
+    "furigana": "できる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to be able (in a position) to do",
+    "secondary_def": "to be up to the task, to be ready, to be completed, to be made, to be built, to be good at, to be permitted (to do), to become intimate, to take up (with somebody), to grow, to be raised"
+  },
+  {
+    "kanji": "別れる",
+    "furigana": "わかれる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to be diverbded",
+    "secondary_def": "to part from, to separate, to bid farewell"
+  },
+  {
+    "kanji": "割れる",
+    "furigana": "われる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to break",
+    "secondary_def": "to be smashed, to split, to crack, to fissure, to be torn, to be diverbded, to cleave"
+  },
+  {
+    "kanji": "増える, 殖える",
+    "furigana": "ふえる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to increase",
+    "secondary_def": "to multiply"
+  },
+  {
+    "kanji": "壊れる",
+    "furigana": "こわれる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to be broken",
+    "secondary_def": "to break,to fall through, to come to nothing"
+  },
+  {
+    "kanji": "慣れる, 馴れる, 狎れる",
+    "furigana": "なれる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to grow accustomed (to)",
+    "secondary_def": "to get too familiar with, to get used (to), to become domesticated, to become tame"
+  },
+  {
+    "kanji": "折れる",
+    "furigana": "おれる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to break",
+    "secondary_def": "to be broken, to snap, to fracture, to be folded, to give in, to back down, to yield, to submit, to turn (a corner)"
+  },
+  {
+    "kanji": "揺れる",
+    "furigana": "ゆれる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to shake",
+    "secondary_def": "to sway"
+  },
+  {
+    "kanji": "暮れる, 眩れる, 暗れる",
+    "furigana": "くれる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to get dark",
+    "secondary_def": "to end, to come to an end, to close, to run out"
+  },
+  {
+    "kanji": "汚れる",
+    "furigana": "よごれる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to get dirty",
+    "secondary_def": "to become dirty, to become sullied"
+  },
+  {
+    "kanji": "濡れる, 濡る",
+    "furigana": "ぬれる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to get wet",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "焼ける",
+    "furigana": "やける",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to burn",
+    "secondary_def": "to be roasted, to be heated, to be sunburnt, to fade (in the sun), to glow red (i.e. of the sky at sunset), to be jealous, to be enverbous"
+  },
+  {
+    "kanji": "生きる",
+    "furigana": "いきる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to live",
+    "secondary_def": "to exist, to make a liverbng, to subsist, to be in effect, to be in use, to function, to come to life, to be enlivened, to be safe (in baseball, go, etc.)"
+  },
+  {
+    "kanji": "痩せる, 痩る",
+    "furigana": "やせる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to become thin",
+    "secondary_def": "to lose weight, to reduce (one's) weight, to slim, to be barren, to be infertile, to be sterile"
+  },
+  {
+    "kanji": "聞こえる, 聞える",
+    "furigana": "きこえる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to be heard",
+    "secondary_def": "to be audible, to be said to be, to be reputed"
+  },
+  {
+    "kanji": "落ちる",
+    "furigana": "おちる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to fall down",
+    "secondary_def": "to drop, to fail (e.g. exam), to crash, to degenerate, to degrade, to fade, to come out (e.g. a stain)"
+  },
+  {
+    "kanji": "見える",
+    "furigana": "みえる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to be seen",
+    "secondary_def": "to be in sight, to look, to seem, to appear, to come"
+  },
+  {
+    "kanji": "足りる",
+    "furigana": "たりる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to be verbficient",
+    "secondary_def": "to be enough, to be worth doing, to be worthy, to be verbficient, to answer, to do"
+  },
+  {
+    "kanji": "逃げる",
+    "furigana": "にげる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to escape",
+    "secondary_def": "to run away"
+  },
+  {
+    "kanji": "遅れる",
+    "furigana": "おくれる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to be late",
+    "secondary_def": "to be delayed, to fall behind schedule, to be overdue"
+  },
+  {
+    "kanji": "降りる, 下りる",
+    "furigana": "おりる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to descend (e.g. a mountain)",
+    "secondary_def": "to go down, to come down, to alight (e.g. from bus), to get off, to disembark, to dismount, to step down, to retire, to give up, to quit, to be granted, to be issued, to be given, to form (of frost, dew, mist, etc.), to be passed (from the body; i.e. of a roundworm)"
+  },
+  {
+    "kanji": "過ぎる",
+    "furigana": "すぎる",
+    "part_of_speech": "verb, verb, verb, verb, verb",
+    "primary_def": "to exceed",
+    "secondary_def": "to pass through,to pass by, to go beyond, to pass (i.e. of time), to elapse, to have expired, to have ended, to be over, to surpass, to be above, to be no more than ..., (often used after adjective stems or the -masu stems of verbs) to be excessive, to be too much, to be too ..."
+  },
+  {
+    "kanji": "負ける, 敗ける",
+    "furigana": "まける",
+    "part_of_speech": "verb, verb, verb, verb",
+    "primary_def": "to lose",
+    "secondary_def": "to be defeated, to succumb, to give in, to surrender, to yield, to be inferior to, to break out in a rash due to (e.g. lacquer, shaverbng, etc.), to reduce the price, to lower the price, to give a discount on"
+  },
+  {
+    "kanji": "下げる",
+    "furigana": "さげる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to hang",
+    "secondary_def": "to lower, to move back, to wear, to dismiss, to grant"
+  },
+  {
+    "kanji": "乗り換える, 乗り替える, 乗りかえる",
+    "furigana": "のりかえる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to transfer (trains)",
+    "secondary_def": "to change (bus, train), to change one's mind, to move on to (e.g. a new love interest), to change methods, to change one's way of thinking"
+  },
+  {
+    "kanji": "伝える",
+    "furigana": "つたえる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to tell",
+    "secondary_def": "to convey, to report, to transmit, to communicate, to impart, to propagate, to teach, to bequeath"
+  },
+  {
+    "kanji": "取り替える",
+    "furigana": "とりかえる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to exchange",
+    "secondary_def": "to replace"
+  },
+  {
+    "kanji": "呉れる",
+    "furigana": "くれる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to give (kana usu. Used)",
+    "secondary_def": "to let one have, to do for one, to be given"
+  },
+  {
+    "kanji": "変える",
+    "furigana": "かえる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to change",
+    "secondary_def": "to alter, to vary, to convert, to reverbse, to amend, to transform"
+  },
+  {
+    "kanji": "尋ねる, 訊ねる",
+    "furigana": "たずねる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to ask",
+    "secondary_def": "to enquire, to inquire, to search, to look for, to look into, to investigate"
+  },
+  {
+    "kanji": "届ける",
+    "furigana": "とどける",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to deliver",
+    "secondary_def": "to forward, to send, to report, to notify, to file notice (to the authorities), to give notice, to register"
+  },
+  {
+    "kanji": "建てる",
+    "furigana": "たてる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to build",
+    "secondary_def": "to construct"
+  },
+  {
+    "kanji": "投げる",
+    "furigana": "なげる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to throw",
+    "secondary_def": "to cast away, to face defeat, to give up"
+  },
+  {
+    "kanji": "捕まえる, 捉まえる, 掴まえる",
+    "furigana": "つかまえる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to catch",
+    "secondary_def": "to arrest, to seize"
+  },
+  {
+    "kanji": "捨てる, 棄てる",
+    "furigana": "すてる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to throw away",
+    "secondary_def": "to cast aside, to abandon, to resign, to break up with (someone)"
+  },
+  {
+    "kanji": "植える",
+    "furigana": "うえる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to plant",
+    "secondary_def": "to grow"
+  },
+  {
+    "kanji": "(1)止める",
+    "furigana": "とめる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to stop (something or someone)",
+    "secondary_def": "to turn off, to concentrate on, to pay attention to, to remember, to bear in mind, to fix into place, to park, to leave somewhere for a time"
+  },
+  {
+    "kanji": "(2)止める",
+    "furigana": "やめる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to end",
+    "secondary_def": "to stop, to cease, to resign"
+  },
+  {
+    "kanji": "比べる",
+    "furigana": "くらべる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to compare",
+    "secondary_def": "to make a comparison, to compete, to verbe"
+  },
+  {
+    "kanji": "決める",
+    "furigana": "きめる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to decide",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "漬ける, 浸ける",
+    "furigana": "つける",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to soak",
+    "secondary_def": "to seep, to dip in, to pickle"
+  },
+  {
+    "kanji": "片付ける, 片づける",
+    "furigana": "かたづける",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to tidy up",
+    "secondary_def": "to put in order, to straighten up, to put away, to settle (problem), to clear (dispute), to finish, to bring something to an end, to marry off (e.g. a daughter), to do away with someone, to bump someone off"
+  },
+  {
+    "kanji": "知らせる, 報せる",
+    "furigana": "しらせる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to notify",
+    "secondary_def": "to adverbse, to inform"
+  },
+  {
+    "kanji": "立てる",
+    "furigana": "たてる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to stand (something) up",
+    "secondary_def": "to erect (something), to make (a noise, a sound), to put (tooth, claw, pointed object) to, to set (a plan, etc.), to decide (objective, schedule)"
+  },
+  {
+    "kanji": "続ける",
+    "furigana": "つづける",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to continue",
+    "secondary_def": "to keep up, to keep on"
+  },
+  {
+    "kanji": "考える",
+    "furigana": "かんがえる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to consider",
+    "secondary_def": "to think about"
+  },
+  {
+    "kanji": "育てる",
+    "furigana": "そだてる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to raise",
+    "secondary_def": "to rear, to bring up"
+  },
+  {
+    "kanji": "苛める",
+    "furigana": "いじめる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to tease",
+    "secondary_def": "to torment, to persecute, to chastise"
+  },
+  {
+    "kanji": "褒める, 誉める, 賞める, 称める",
+    "furigana": "ほめる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to praise",
+    "secondary_def": "to admire, to speak well"
+  },
+  {
+    "kanji": "見付ける, 見つける, 見附ける, 見附る",
+    "furigana": "みつける",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to discover",
+    "secondary_def": "to find (e.g. an error in a book), to come across, to detect, to spot, to locate, to find (e.g. something missing), to find fault, to be used to seeing, to be familiar with"
+  },
+  {
+    "kanji": "訪ねる",
+    "furigana": "たずねる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to verbsit",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "調べる",
+    "furigana": "しらべる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to examine",
+    "secondary_def": "to investigate, to check up, to sense, to study, to inquire, to search"
+  },
+  {
+    "kanji": "迎える",
+    "furigana": "むかえる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to go out to meet",
+    "secondary_def": "to receive, to welcome, to accept (e.g. as a member of a group or family), to call for, to summon, to inverbte, to approach (a certain time, a point in one's life, etc.)"
+  },
+  {
+    "kanji": "間違える",
+    "furigana": "まちがえる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to make a mistake (in)",
+    "secondary_def": "to commit an error (e.g. in calculation), to confuse, to mistake something for something else"
+  },
+  {
+    "kanji": "集める",
+    "furigana": "あつめる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to collect",
+    "secondary_def": "to assemble, to gather"
+  },
+  {
+    "kanji": "申し上げる, 申上げる, 申しあげる",
+    "furigana": "もうしあげる",
+    "part_of_speech": "verb, verb, verb",
+    "primary_def": "to say",
+    "secondary_def": "to tell, to state, to do for"
+  },
+  {
+    "kanji": "始める",
+    "furigana": "はじめる",
+    "part_of_speech": "verb, verb, verb, verb",
+    "primary_def": "to start",
+    "secondary_def": "to begin, to commence, to initiate, to originate, to open (e.g. a store), to start up, to establish (business. etc.), to start (doing something), to begin to ..."
+  },
+  {
+    "kanji": "掛ける",
+    "furigana": "かける",
+    "part_of_speech": "verb, verb, verb, verb, verb",
+    "primary_def": "to hang (e.g. picture)",
+    "secondary_def": "to hoist (e.g. sail), to raise (e.g. flag), to put on (e.g. wall)"
+  },
+  {
+    "kanji": "受ける",
+    "furigana": "うける",
+    "part_of_speech": "verb, verb, verb, verb",
+    "primary_def": "to take (a test)",
+    "secondary_def": "to receive, to get, to catch (e.g. a ball), to be struck by (wind, waves, sunlight, etc.), to sustain (damage), to incur (a loss), to verbfer (an injury), to feel (influence), to undergo (e.g. surgery), to accept (a challenge), to be given (e.g. life, talent), to follow, to succeed, to be descended from, to face (south, etc.), to be modified by, to obtain (a pawned item, etc.) by paying a fee, to be well-received, to become popular, to go down well"
+  },
+  {
+    "kanji": "上げる",
+    "furigana": "あげる",
+    "part_of_speech": "verb, verb, verb, verb, verb, verb, verb, verb",
+    "primary_def": "to raise",
+    "secondary_def": "to elevate, to give (an example, etc.), to give, (after the -te form of a verb) to do for (the sake of someone else)"
+  },
+  {
+    "kanji": "下さる",
+    "furigana": "くださる",
+    "part_of_speech": "v5aru",
+    "primary_def": "(hon) to give",
+    "secondary_def": "to confer"
+  },
+  {
+    "kanji": "仰っしゃる",
+    "furigana": "おっしゃる",
+    "part_of_speech": "v5aru, verb",
+    "primary_def": "(hon) to say",
+    "secondary_def": "to speak, to tell, to talk"
+  },
+  {
+    "kanji": "為さる",
+    "furigana": "なさる",
+    "part_of_speech": "v5aru, verb",
+    "primary_def": "(hon) to do",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "運ぶ",
+    "furigana": "はこぶ",
+    "part_of_speech": "v5b, v5b, verb",
+    "primary_def": "to carry",
+    "secondary_def": "to transport, to move, to convey, to come, to go, to wield (a tool, etc.), to use, to go (well, etc.), to proceed, to progress"
+  },
+  {
+    "kanji": "喜ぶ",
+    "furigana": "よろこぶ",
+    "part_of_speech": "v5b, verb",
+    "primary_def": "to be delighted",
+    "secondary_def": "to be glad, to be pleased, to congratulate, to gratefully accept"
+  },
+  {
+    "kanji": "選ぶ",
+    "furigana": "えらぶ",
+    "part_of_speech": "v5b, verb",
+    "primary_def": "to choose",
+    "secondary_def": "to select"
+  },
+  {
+    "kanji": "騒ぐ, 騷ぐ",
+    "furigana": "さわぐ",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to make noise",
+    "secondary_def": "to make racket, to be noisy, to rustle, to swoosh, to make merry, to clamor, to clamour, to make a fuss, to kick up a fuss, to lose one's cool, to panic, to act flustered, to feel tense, to be uneasy, to be excited"
+  },
+  {
+    "kanji": "急ぐ",
+    "furigana": "いそぐ",
+    "part_of_speech": "verb, verb, verb",
+    "primary_def": "to hurry",
+    "secondary_def": "to rush, to hasten, to make something happen sooner"
+  },
+  {
+    "kanji": "泣く, 哭く",
+    "furigana": "なく",
+    "part_of_speech": "verb",
+    "primary_def": "to cry",
+    "secondary_def": "to weep, to sob, to howl"
+  },
+  {
+    "kanji": "乾く",
+    "furigana": "かわく",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to get dry",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "動く",
+    "furigana": "うごく",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to move",
+    "secondary_def": "to stir, to shift, to shake, to swing, to operate, to run, to go, to work, to be touched, to be influenced, to change, to vary, to fluctuate, to waver, certain, factual, to be transferred"
+  },
+  {
+    "kanji": "沸く",
+    "furigana": "わく",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to grow hot (of water etc.)",
+    "secondary_def": "to boil, to be in a state of excitement, to get excited, to take place energetically"
+  },
+  {
+    "kanji": "点く",
+    "furigana": "つく",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to be lit (e.g. electricity comes on)",
+    "secondary_def": "to be lighted, to catch fire"
+  },
+  {
+    "kanji": "(1)空く",
+    "furigana": "あく",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to open",
+    "secondary_def": "to become empty, to be vacant, to be available, to be free, to be open (e.g. neckline, etc.)"
+  },
+  {
+    "kanji": "(2)空く",
+    "furigana": "すく",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to become less crowded",
+    "secondary_def": "to thin out, to get empty, to be hungry"
+  },
+  {
+    "kanji": "続く",
+    "furigana": "つづく",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to continue",
+    "secondary_def": "to last, to go on, to be unbroken, to occur again and again, to lead to, to connect to"
+  },
+  {
+    "kanji": "驚く",
+    "furigana": "おどろく",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to be surprised",
+    "secondary_def": "to be astonished"
+  },
+  {
+    "kanji": "頂く",
+    "furigana": "いただく",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to receive (humble)",
+    "secondary_def": "to get, to accept, to take, to buy, to eat, to drink, to be crowned with, to wear (on one's head), to have (on top), to have (as one's leader), to live under (a ruler), to install (a president)"
+  },
+  {
+    "kanji": "焼く",
+    "furigana": "やく",
+    "part_of_speech": "verb, verb, verb, verb",
+    "primary_def": "to bake",
+    "secondary_def": "to grill, to develop (photos), to suntan, to burn (in flames, down, CD, DVD, etc.), to scorch, to be jealous, to be enverbous"
+  },
+  {
+    "kanji": "開く",
+    "furigana": "ひらく",
+    "part_of_speech": "verb, verb, verb, verb",
+    "primary_def": "to open (e.g. a bank-account, festival, etc.)",
+    "secondary_def": "to spread out, to open up (flower bud, umbrella, etc.), to widen (gap, distance, width), to hold, to give (party, conference, etc.)"
+  },
+  {
+    "kanji": "楽しむ, 楽む",
+    "furigana": "たのしむ",
+    "part_of_speech": "verb",
+    "primary_def": "to enjoy (oneself)",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "止む",
+    "furigana": "やむ",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to cease",
+    "secondary_def": "to stop, to be over"
+  },
+  {
+    "kanji": "済む",
+    "furigana": "すむ",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to finish",
+    "secondary_def": "to end, to be completed, to merely result in something less severe than expected, to feel at ease"
+  },
+  {
+    "kanji": "進む",
+    "furigana": "すすむ",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to advance",
+    "secondary_def": "to go forward, to precede, to go ahead (of), to make progress, to improve, to deepen, to heighten, to do of one's own free will"
+  },
+  {
+    "kanji": "(1)込む",
+    "furigana": "こむ",
+    "part_of_speech": "verb, verb, verb",
+    "primary_def": "to be crowded",
+    "secondary_def": "to be packed, to be complex"
+  },
+  {
+    "kanji": "(2)込む",
+    "furigana": "こむ",
+    "part_of_speech": "verb, verb, verb",
+    "primary_def": "to go into",
+    "secondary_def": "to put into, to remain (seated), to be plunged into (silence), to do thoroughly, to do intently, to continue in the same state"
+  },
+  {
+    "kanji": "噛む",
+    "furigana": "かむ",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to bite",
+    "secondary_def": "to chew, to gnaw, to fumble or falter with one's words"
+  },
+  {
+    "kanji": "盗む",
+    "furigana": "ぬすむ",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to steal",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "踏む",
+    "furigana": "ふむ",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to step on",
+    "secondary_def": "to tread on, to experience, to undergo, to estimate, to value, to appraise"
+  },
+  {
+    "kanji": "参る",
+    "furigana": "まいる",
+    "part_of_speech": "verb",
+    "primary_def": "(hum) to go",
+    "secondary_def": "to come, to call, to be defeated, to collapse, to die, to be annoyed, to be nonplussed, to be madly in love, to verbsit (shrine, grave)"
+  },
+  {
+    "kanji": "謝る",
+    "furigana": "あやまる",
+    "part_of_speech": "verb",
+    "primary_def": "to apologize",
+    "secondary_def": "to apologise"
+  },
+  {
+    "kanji": "下がる, 下る",
+    "furigana": "さがる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to hang down",
+    "secondary_def": "to abate, to retire, to fall, to step back"
+  },
+  {
+    "kanji": "亡くなる",
+    "furigana": "なくなる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to die",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "光る",
+    "furigana": "ひかる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to shine",
+    "secondary_def": "to glitter, to be bright"
+  },
+  {
+    "kanji": "回る",
+    "furigana": "まわる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to turn",
+    "secondary_def": "to revolve, to verbsit several places, to function well, to pass a certain time"
+  },
+  {
+    "kanji": "変わる, 変る",
+    "furigana": "かわる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to change",
+    "secondary_def": "to be transformed, to be altered, to vary, to move to, to be different, to be uncommon, to be unusual"
+  },
+  {
+    "kanji": "太る",
+    "furigana": "ふとる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to grow fat (stout, plump)",
+    "secondary_def": "to become fat, to gain weight"
+  },
+  {
+    "kanji": "寄る",
+    "furigana": "よる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to verbsit",
+    "secondary_def": "to drop in, to approach"
+  },
+  {
+    "kanji": "怒る",
+    "furigana": "おこる, いかる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to get angry",
+    "secondary_def": "to get mad, to tell someone off, to scold, to be angular, to be square"
+  },
+  {
+    "kanji": "戻る",
+    "furigana": "もどる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to turn back",
+    "secondary_def": "to return, to go back, to recover, to rebound"
+  },
+  {
+    "kanji": "残る",
+    "furigana": "のこる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to remain",
+    "secondary_def": "to be left"
+  },
+  {
+    "kanji": "決まる, 決る",
+    "furigana": "きまる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to be decided",
+    "secondary_def": "to be settled"
+  },
+  {
+    "kanji": "治る, 直る",
+    "furigana": "なおる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to be cured",
+    "secondary_def": "to get well, to be healed, to get mended, to be repaired, to be fixed"
+  },
+  {
+    "kanji": "泊まる, 泊る",
+    "furigana": "とまる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to stay at (e.g. hotel)",
+    "secondary_def": "to be docked, to be berthed, to be moored"
+  },
+  {
+    "kanji": "滑る",
+    "furigana": "すべる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to glide",
+    "secondary_def": "to slide (e.g. on skis), to slip, to fail (an examination), to bomb (when telling a joke), to drop, to go down, to come down, to fall (e.g. in status)"
+  },
+  {
+    "kanji": "無くなる",
+    "furigana": "なくなる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to disappear",
+    "secondary_def": "to get lost"
+  },
+  {
+    "kanji": "眠る, 睡る",
+    "furigana": "ねむる, ねぶる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to sleep (not necessarily lying down)",
+    "secondary_def": "to die, to close one's eyes"
+  },
+  {
+    "kanji": "移る",
+    "furigana": "うつる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to move (house)",
+    "secondary_def": "to transfer (department), to change the target of interest or concern, to elapse (passage of time), to be permeated by a colour or scent, to be infected, to be contagious, to spread (as in fire)"
+  },
+  {
+    "kanji": "見つかる, 見付かる",
+    "furigana": "みつかる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to be found",
+    "secondary_def": "to be discovered"
+  },
+  {
+    "kanji": "触る",
+    "furigana": "さわる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to touch",
+    "secondary_def": "to feel"
+  },
+  {
+    "kanji": "踊る",
+    "furigana": "おどる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to dance (orig. a hopping dance)",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "通る",
+    "furigana": "とおる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to pass (by)",
+    "secondary_def": "to go through, to walk along, to pass exams, to attend (e.g. school)"
+  },
+  {
+    "kanji": "集まる, 集る",
+    "furigana": "あつまる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to gather",
+    "secondary_def": "to collect, to assemble"
+  },
+  {
+    "kanji": "頑張る",
+    "furigana": "がんばる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to persevere",
+    "secondary_def": "to persist, to keep at it, to hang on, to hold out, to do one's best, to insist that, to stick to (one's opinion), to remain in a place, to stick to one's post, to refuse to budge"
+  },
+  {
+    "kanji": "鳴る",
+    "furigana": "なる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to sound",
+    "secondary_def": "to ring, to resound, to echo, to roar, to rumble"
+  },
+  {
+    "kanji": "上がる",
+    "furigana": "あがる",
+    "part_of_speech": "verb, verb, verb, verb",
+    "primary_def": "to rise",
+    "secondary_def": "to go up, to come up, to ascend, to be raised"
+  },
+  {
+    "kanji": "召し上がる, 召上がる, 召し上る",
+    "furigana": "めしあがる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "(pol) to eat",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "叱る, 呵る",
+    "furigana": "しかる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to scold",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "塗る",
+    "furigana": "ぬる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to paint",
+    "secondary_def": "to plaster, to lacquer, to varnish, to spread, to smear"
+  },
+  {
+    "kanji": "折る",
+    "furigana": "おる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to break",
+    "secondary_def": "to fracture, to break off, to snap off, to pick (e.g. flowers), to fold, to bend, to make (origami), to interrupt, to end"
+  },
+  {
+    "kanji": "祈る",
+    "furigana": "いのる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to pray",
+    "secondary_def": "to wish"
+  },
+  {
+    "kanji": "送る",
+    "furigana": "おくる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to send (a thing)",
+    "secondary_def": "to dispatch, to despatch, to take or escort (a person somewhere), to see off (a person), to bid farewell (to the departed), to bury, to spend (time), to live one's life, to pass (down the line), to affix okurigana"
+  },
+  {
+    "kanji": "釣る",
+    "furigana": "つる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to fish",
+    "secondary_def": "to angle, to catch, to lure in, to tempt, to attract, to entice, to allure"
+  },
+  {
+    "kanji": "飾る",
+    "furigana": "かざる",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to decorate",
+    "secondary_def": "to ornament, to adorn"
+  },
+  {
+    "kanji": "降り出す, 降りだす",
+    "furigana": "ふりだす",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to begin to rain",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "写す",
+    "furigana": "うつす",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to transcribe",
+    "secondary_def": "to duplicate, to reproduce, to imitate, to trace, to describe, to film, to picture, to photograph"
+  },
+  {
+    "kanji": "壊す",
+    "furigana": "こわす",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to break",
+    "secondary_def": "to destroy, to demolish, to wreck, to ruin, to spoil, to damage, to break (a bill, etc.)"
+  },
+  {
+    "kanji": "引き出す, 引出す, 引きだす",
+    "furigana": "ひきだす",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to pull out",
+    "secondary_def": "to take out, to draw out, to withdraw"
+  },
+  {
+    "kanji": "思い出す, 思いだす, 思出す",
+    "furigana": "おもいだす",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to recall",
+    "secondary_def": "to remember"
+  },
+  {
+    "kanji": "探す, 捜す",
+    "furigana": "さがす",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to search (for something lost)",
+    "secondary_def": "to seek (a suspect in a crime), to search (for something desired, needed), to look for"
+  },
+  {
+    "kanji": "沸かす, 鎔かす",
+    "furigana": "わかす",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to boil",
+    "secondary_def": "to heat, to excite, to melt (metal)"
+  },
+  {
+    "kanji": "申す",
+    "furigana": "もうす",
+    "part_of_speech": "verb, verb",
+    "primary_def": "(hum) to say",
+    "secondary_def": "to be called, to do"
+  },
+  {
+    "kanji": "致す",
+    "furigana": "いたす",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to do (humble)",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "落とす, 落す",
+    "furigana": "おとす",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to drop",
+    "secondary_def": "to lose, to let fall, to shed (light), to cast (one's gaze), to pour in (liquid), to leave behind, to clean off (dirt, makeup, paint, etc.), to remove (e.g. stains or facial hair), to lose, to spend money at a certain place, to omit, to leave out, to secretly let escape, to lose (a match), to reject (an applicant), to fail (a course), to defeat (in an election), to lower (e.g. shoulders or voice), to lessen (e.g. production or body weight), to worsen (quality), to reduce (e.g. rank or popularity), to speak badly of, to make light of, to fall into straitened circumstances, to fall into (e.g. a dilemma or sin), to make one's own, to have one's bid accepted, to force surrender, to take (e.g. an enemy camp or castle), to forcefully converbnce, to press for a confession, to deal with, to download, to copy from a computer to another medium, to make someone swoon (judo), to finish a story (e.g. with the punch line), to finish (a period, e.g. of fasting)"
+  },
+  {
+    "kanji": "起こす, 起す",
+    "furigana": "おこす",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to raise",
+    "secondary_def": "to cause, to wake someone"
+  },
+  {
+    "kanji": "足す",
+    "furigana": "たす",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to add (numbers)",
+    "secondary_def": "to add (something), to top up (with something), to take care of (e.g. one's business)"
+  },
+  {
+    "kanji": "治す, 直す",
+    "furigana": "なおす",
+    "part_of_speech": "verb, verb, verb",
+    "primary_def": "to cure",
+    "secondary_def": "to heal, to fix, to correct, to repair, to do over again (after -masu base of verb), to replace, to put back as it was, to convert (into a different state), to transform"
+  },
+  {
+    "kanji": "役に立つ",
+    "furigana": "やくにたつ",
+    "part_of_speech": "v5t",
+    "primary_def": "to be helpful",
+    "secondary_def": "to be useful"
+  },
+  {
+    "kanji": "勝つ",
+    "furigana": "かつ",
+    "part_of_speech": "v5t, verb",
+    "primary_def": "to win",
+    "secondary_def": "to gain verbctory"
+  },
+  {
+    "kanji": "打つ",
+    "furigana": "うつ",
+    "part_of_speech": "v5t, verb",
+    "primary_def": "to hit",
+    "secondary_def": "to strike, to knock, to beat, to punch, to slap, to tap, to bang, to clap, to pound, to strike (noon, etc.), to sound (cymbals, etc.), to beat (a drum, etc.), to beat (rhythmically, e.g. pulse, waves, etc.), to move, to impress, to touch, to drive in, to hammer in, to put in, to inject, to type, to send, to transmit, to insert, to write in, to mark, to make (noodles, etc.), to prepare, to till (soil), to sprinkle, to throw, to cast, to do, to carry out, to play, to perform, to engage in (gambling, etc.), to pay (a deposit, etc.), to verbsit (on a pilgrimage), to line (a coat), to bind (a criminal)"
+  },
+  {
+    "kanji": "構う",
+    "furigana": "かまう",
+    "part_of_speech": "verb",
+    "primary_def": "to mind",
+    "secondary_def": "to care about, to be concerned about, to care for, to look after, to prepare for"
+  },
+  {
+    "kanji": "行う, 行なう",
+    "furigana": "おこなう",
+    "part_of_speech": "verb",
+    "primary_def": "to perform",
+    "secondary_def": "to do, to conduct oneself, to carry out"
+  },
+  {
+    "kanji": "間に合う, 間にあう",
+    "furigana": "まにあう",
+    "part_of_speech": "verb",
+    "primary_def": "to be in time for",
+    "secondary_def": "to serve (suit, meet) the purpose, to be good enough, to be enough"
+  },
+  {
+    "kanji": "会う",
+    "furigana": "あう",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to meet",
+    "secondary_def": "to encounter, to have an accident, to have a bad experience"
+  },
+  {
+    "kanji": "向かう, 向う",
+    "furigana": "むかう",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to face",
+    "secondary_def": "to go towards"
+  },
+  {
+    "kanji": "笑う, 咲う, 嗤う",
+    "furigana": "わらう",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to laugh",
+    "secondary_def": "to smile, to sneer, to ridicule"
+  },
+  {
+    "kanji": "通う",
+    "furigana": "かよう",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to go back and forth",
+    "secondary_def": "to ply between, to commute, to attend (school, church, etc.)"
+  },
+  {
+    "kanji": "合う",
+    "furigana": "あう, おう",
+    "part_of_speech": "verb, verb, verb, verb",
+    "primary_def": "to match",
+    "secondary_def": "to come together, to merge, to unite, to meet, to fit, to suit, to agree with, to be correct, to be profitable, to be equitable, (after the -masu stem of a verb) to do ... to each other, to do ... together"
+  },
+  {
+    "kanji": "思う",
+    "furigana": "おもう",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to think",
+    "secondary_def": "to consider, to believe, to think (of doing), to plan (to do), to judge, to assess, to regard, to imagine, to suppose, to dream, to expect, to look forward to, to feel, to desire, to want, to recall, to remember"
+  },
+  {
+    "kanji": "手伝う",
+    "furigana": "てつだう",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to help",
+    "secondary_def": "to assist, to take part in"
+  },
+  {
+    "kanji": "(1)払う",
+    "furigana": "はらう",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to pay (e.g. money; a bill; one's taxes; etc.)",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "(2)払う",
+    "furigana": "はらう",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to brush",
+    "secondary_def": "to wipe, to clear away, to dust off, to prune away branches, to drive away (e.g. one's competitors), to sweep out"
+  },
+  {
+    "kanji": "拾う",
+    "furigana": "ひろう",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to pick up",
+    "secondary_def": "to find, to gather"
+  },
+  {
+    "kanji": "貰う",
+    "furigana": "もらう",
+    "part_of_speech": "verb, verb",
+    "primary_def": "to receive",
+    "secondary_def": "to take, to accept, to get somebody to do something (follows a verb in \"te\" form)"
+  },
+  {
+    "kanji": "(1)伺う",
+    "furigana": "うかがう",
+    "part_of_speech": "verb, verb, verb, verb, verb",
+    "primary_def": "to verbsit",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "(2)伺う",
+    "furigana": "うかがう",
+    "part_of_speech": "verb, verb, verb, verb, verb",
+    "primary_def": "to ask",
+    "secondary_def": "to inquire, to hear, to be told, to implore (a god for an oracle), to seek direction (from your superior), to speak to (a large crowd at a theatre, etc.)"
+  },
+  {
+    "kanji": "連絡",
+    "furigana": "れんらく",
+    "part_of_speech": "vs, adj-no, n, adj-no",
+    "primary_def": "to contact",
+    "secondary_def": "to get in touch, contacting, getting in touch, communication, call, message, connection, coordination, junction, intercalary, intercalaris, internuncial"
+  },
+  {
+    "kanji": "びっくり, ビックリ",
+    "furigana": "びっくり, ビックリ",
+    "part_of_speech": "vs, adv, adj-f",
+    "primary_def": "to be surprised",
+    "secondary_def": "to be amazed, to be frightened, to be astonished, surprise (e.g. surprise party)"
+  },
+  {
+    "kanji": "～代",
+    "furigana": "～だい",
+    "part_of_speech": "verb",
+    "primary_def": "～ age/period",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "～会",
+    "furigana": "～かい",
+    "part_of_speech": "verb",
+    "primary_def": "～ meeting",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "～学部",
+    "furigana": "～がくぶ",
+    "part_of_speech": "verb",
+    "primary_def": "department of a university",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "～家",
+    "furigana": "～か",
+    "part_of_speech": "verb",
+    "primary_def": "professional ～",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "～式",
+    "furigana": "～しき",
+    "part_of_speech": "verb",
+    "primary_def": "ceremony",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "～製",
+    "furigana": "～せい",
+    "part_of_speech": "verb",
+    "primary_def": "made in　～",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "～軒",
+    "furigana": "～けん",
+    "part_of_speech": "verb",
+    "primary_def": "counter for houses",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "お祭り",
+    "furigana": "おまつり",
+    "part_of_speech": "n",
+    "primary_def": "festival",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "(1)かける",
+    "furigana": "かける",
+    "part_of_speech": "verb,verb",
+    "primary_def": "to sit down",
+    "secondary_def": ""
+  },
+  {
+    "kanji": "(2)かける",
+    "furigana": "かける",
+    "part_of_speech": "verb,verb",
+    "primary_def": "to begin (but not complete)",
+    "secondary_def": "to be partway (verb)"
+  },
+  {
+    "kanji": "すっと",
+    "furigana": "すっと",
+    "part_of_speech": "adv,vs",
+    "primary_def": "straight",
+    "secondary_def": "all of a sudden"
+  },
+  {
+    "kanji": "ハンドバッグ",
+    "furigana": "ハンドバッグ",
+    "part_of_speech": "n",
+    "primary_def": "handbag",
+    "secondary_def": ""
+  }
+]
