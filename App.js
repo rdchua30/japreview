@@ -12,6 +12,7 @@ import HomeScreen from './screens/HomeImage'
 import SearchScreen from './screens/Search'
 import WordScreen from './screens/Word'
 import QuizScreen from './screens/Quiz'
+import CategoriesScreen from './screens/Categories'
 
 export default class App extends React.Component {
 
@@ -63,6 +64,7 @@ export const Navigation = createStackNavigator({
     Search: { screen: SearchScreen },
     Word: { screen: WordScreen },
     Quiz: { screen: QuizScreen },
+    Categories: { screen: CategoriesScreen }
 }, {
     transitionConfig
 });
