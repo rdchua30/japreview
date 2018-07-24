@@ -277,7 +277,7 @@ export default class Home extends React.Component {
                         {/* <Text numberOfLines={4} ellipsizeMode='tail' style={styles.wodtDefinition}>{this.state.word.sentence_translation}</Text> */}
                         <Text numberOfLines={4} ellipsizeMode='tail' style={styles.wodtDefinition}>Consequat nostrud laboris sunt aliquip veniam proident eu officia ullamco nulla Lorem magna. Velit consequat dolor ullamco elit. Ea voluptate cillum esse proident amet eiusmod laboris. Incididunt adipisicing voluptate labore ad consectetur eiusmod velit amet sit commodo non.</Text>
                         <View style={{flexDirection: 'row'}}>
-                            <TouchableOpacity style={styles.button} onPress={() => navigate('Search')}>
+                            <TouchableOpacity style={styles.button} onPress={() => navigate('Categories')}>
                                 <Text style={styles.buttonText}>See more</Text>
                             </TouchableOpacity>
                             <TouchableOpacity style={styles.button} onPress={() => navigate('Quiz')}>
