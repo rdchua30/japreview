@@ -82,7 +82,7 @@ export default class Categories extends React.Component {
                         data={this.state.levels}
                         keyExtractor={(item, index) => item.title}
                         renderItem={({ item, index }) =>
-                            <View style={{ paddingHorizontal: 7 }}>
+                            <View style={{ paddingHorizontal: 12.5 }}>
                                 <View style={styles.card}>
                                     <Text style={styles.cardTitle}>{item.title}</Text>
                                     <View style={styles.divider}></View>
@@ -130,7 +130,7 @@ const styles = StyleSheet.create({
     card: {
         width: 130,
         height: 180,
-        elevation: 8,
+        elevation: 10,
         borderRadius: 4,
         padding: 15,
         marginTop: 20,
