@@ -23,25 +23,25 @@ export default class Categories extends React.Component {
             set: [],
             levels: [
                 {
-                    title: 'Vocabulary',
+                    title: 'Minna No Nihongo I',
                     text: 'Occaecat non tempor reprehenderit.',
-                    img: require('../assets/images/image5.jpg')
+                    img: require('../assets/images/image9.jpg')
                 },
                 {
-                    title: 'Grammar',
+                    title: 'Minna No Nihongo II',
                     text: 'Sunt veniam aliqua amet deserunt.',
-                    img: require('../assets/images/image3.jpg')
+                    img: require('../assets/images/image10.jpg')
                 },
                 {
-                    title: 'Vocabulary',
+                    title: 'Genki I',
                     text: 'Occaecat non tempor reprehenderit.',
-                    img: require('../assets/images/image6.jpg')
+                    img: require('../assets/images/image11.jpg')
                 }, {
-                    title: 'Grammar',
+                    title: 'Genki II',
                     text: 'Sunt veniam aliqua amet deserunt magna ex.',
-                    img: require('../assets/images/image7.jpg')
+                    img: require('../assets/images/image12.jpg')
                 }
-            ]
+            ],
         }
     }
 
@@ -73,26 +73,26 @@ export default class Categories extends React.Component {
         return (
             <View style={styles.MainContainer}>
                 <StatusBar barStyle="dark-content" backgroundColor='#fff' />
-                <Text style={styles.heading}>Categories</Text>
-                <View style={{ marginTop: -15, marginLeft: -12.5 }}>
+                <Text style={styles.heading}>CATEGORIES</Text>
+                <View style={{ marginLeft: -12.5 }}>
                     <FlatList
-                        style={{ marginTop: 15, height: 250 }}
+                        style={{ marginTop: 5, height: 250 }}
                         horizontal={true}
                         showsHorizontalScrollIndicator={false}
                         data={this.state.levels}
                         keyExtractor={(item, index) => item.title}
                         renderItem={({ item, index }) =>
-                            <View style={{ paddingHorizontal: 10 }}>
-                                <ImageBackground imageStyle={{ borderRadius: 5 }} style={styles.card} source={item.img}>
+                            <View style={{ paddingHorizontal: 7 }}>
+                                <View style={styles.card}>
                                     <Text style={styles.cardTitle}>{item.title}</Text>
                                     <View style={styles.divider}></View>
                                     <Text style={styles.cardContent}>{item.text}</Text>
-                                    <Text style={styles.cardFooter}>EXPLORE</Text>
-                                </ImageBackground>
+                                    <Text style={styles.cardFooter}>explore</Text>
+                                </View>
                             </View>
                         }
                     />
-                </View>
+                </View>                
             </View>
         );
     }
@@ -107,17 +107,17 @@ const styles = StyleSheet.create({
         paddingTop: (Platform.OS) === 'ios' ? 20 : 20,
     }, 
     heading: {
-        color: '#333',
-        fontSize: 24,
-        fontWeight: '700'
-        // fontFamily: 'Lora-Bold',
+        color: '#000',
+        marginTop: -10,
+        fontSize: 14,
+        letterSpacing: 1,
+        fontFamily: 'Raleway-Regular',
     },
     button: {
         paddingVertical: 15,
         paddingHorizontal: 35,
         marginTop: 70,
         backgroundColor: '#d1ada9',
-        // borderWidth: .7,
         alignSelf: 'center',
         borderRadius: 50,
         borderColor: '#000'
@@ -128,46 +128,52 @@ const styles = StyleSheet.create({
         fontFamily: 'SourceSansPro-Regular'
     }, 
     card: {
-        width: 150,
-        height: 210,
+        width: 130,
+        height: 180,
         elevation: 8,
         borderRadius: 4,
+        padding: 15,
         marginTop: 20,
         backgroundColor: 'white',
-        justifyContent: 'center',
     },
     cardTitle: {
-        fontFamily: 'Lora-Bold',
-        // textAlign: 'center',
-        fontSize: 20,
-        color: '#fff',
-        alignSelf: 'center',
-        marginTop: 120
+        marginTop: 5,
+        fontFamily: 'PlayfairDisplay-Bold',
+        fontSize: 18,
+        color: '#000',
+        letterSpacing: 0.5,
     },
     divider: {
-        marginTop: 15,
+        marginTop: 8,
         width: 35,
         borderBottomWidth: 1,
         borderRadius: 3,
-        alignSelf: 'center',
-        borderColor: '#fff',
-        backgroundColor: '#fff'
+        borderColor: '#000',
+        backgroundColor: '#000'
     },
     cardContent: {
-        fontSize: 10,
-        marginTop: 15,
-        color: '#fff',
-        textAlign: 'center',
-        fontFamily: 'SourceSansPro-SemiBold',
-        letterSpacing: 1,
-        paddingHorizontal: 20
+        fontSize: 12,
+        marginTop: 8,
+        color: '#000',
+        fontFamily: 'OpenSans-Light',
+        maxWidth: 120,
+        letterSpacing: 0.4,
     },
     cardFooter: {
-        marginTop: 40,
-        fontSize: 10,
-        color: '#fff',
-        letterSpacing: 3,
-        fontFamily: 'SourceSansPro-Bold',
-        textAlign: 'center',
+        position: 'absolute',
+        bottom: 10,
+        left: 15,
+        fontSize: 12,
+        color: '#d1ada9',
+        letterSpacing: 0.3,
+        fontFamily: 'PlayfairDisplay-Italic',
+        // textAlign: 'center',
+    },
+    category: {
+        marginTop: 25,
+        fontSize: 16,
+        // fontFamily: 'Lora-Regular',
+        fontWeight: '700',
+        color: '#000'
     }
 });
