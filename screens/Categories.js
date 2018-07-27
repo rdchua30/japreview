@@ -1,9 +1,11 @@
 import React, { Component } from 'react';
 import {
     Platform,
-    StyleSheet, Text,
-    View, TouchableOpacity, StatusBar, FlatList, Image, Button, ImageBackground,
+    StyleSheet,
+    Text,
+    View, TextInput, TouchableOpacity, StatusBar, FlatList, Image, Button, ImageBackground
 } from 'react-native';
+import ListItem from '../components/ListItem'
 import Icon from 'react-native-vector-icons/dist/MaterialIcons';
 
 export default class Categories extends React.Component {
@@ -19,26 +21,27 @@ export default class Categories extends React.Component {
             },
             results: [],
             set: [],
-            levels: [{
-                    title: 'Vocabulary',
-                    text: 'Occaecat non tempor reprehenderit duis mollit sint incididunt.',
-                    img: require('../assets/images/image5.jpg')
+            levels: [
+                {
+                    title: 'Minna No Nihongo I',
+                    text: 'Occaecat non tempor reprehenderit.',
+                    img: require('../assets/images/image9.jpg')
                 },
                 {
-                    title: 'Grammar',
-                    text: 'Sunt veniam aliqua amet deserunt magna ex.',
-                    img: require('../assets/images/image3.jpg')
+                    title: 'Minna No Nihongo II',
+                    text: 'Sunt veniam aliqua amet deserunt.',
+                    img: require('../assets/images/image10.jpg')
                 },
                 {
-                    title: 'Vocabulary',
-                    text: 'Occaecat non tempor reprehenderit duis mollit sint incididunt.',
-                    img: require('../assets/images/image6.jpg')
+                    title: 'Genki I',
+                    text: 'Occaecat non tempor reprehenderit.',
+                    img: require('../assets/images/image11.jpg')
                 }, {
-                    title: 'Grammar',
+                    title: 'Genki II',
                     text: 'Sunt veniam aliqua amet deserunt magna ex.',
-                    img: require('../assets/images/image7.jpg')
+                    img: require('../assets/images/image12.jpg')
                 }
-            ]
+            ],
         }
     }
 
@@ -47,9 +50,15 @@ export default class Categories extends React.Component {
             backgroundColor: '#fafafa',
             elevation: 0,
         },
+        // headerTitleStyle: {
+        //     fontSize: 24,
+        //     fontFamily: 'SourceSansPro-Bold',
+        //     fontWeight: '1000'
+        // },
+        // headerTitle: 'Japanese Review',
         headerRight: (
             <TouchableOpacity >
-                <Icon style={{paddingRight: 10}} name="more-vert" size={26} color="#333" />
+                <Icon style={{ paddingRight: 10 }} name="more-vert" size={26} color="#333" />
             </TouchableOpacity>
         ),
         headerLeft: (
@@ -60,32 +69,30 @@ export default class Categories extends React.Component {
         headerTintColor: '#000'
     };
 
-    
     render() {
-        const { navigate } = this.props.navigation;
         return (
             <View style={styles.MainContainer}>
                 <StatusBar barStyle="dark-content" backgroundColor='#fff' />
-                <Text style={styles.heading}>Categories</Text>
-                <View style={{marginTop: 0, marginLeft: -12.5}}>
+                <Text style={styles.heading}>CATEGORIES</Text>
+                <View style={{ marginLeft: -12.5 }}>
                     <FlatList
-                        style={{marginTop: 10, height: 420 }}
+                        style={{ marginTop: 5, height: 250 }}
                         horizontal={true}
                         showsHorizontalScrollIndicator={false}
                         data={this.state.levels}
                         keyExtractor={(item, index) => item.title}
                         renderItem={({ item, index }) =>
-                        <View style={{ paddingHorizontal: 15 }}>
-                                <ImageBackground imageStyle={{ borderRadius: 5 }} style={styles.card} source={item.img}>
+                            <View style={{ paddingHorizontal: 12.5 }}>
+                                <View style={styles.card}>
                                     <Text style={styles.cardTitle}>{item.title}</Text>
                                     <View style={styles.divider}></View>
                                     <Text style={styles.cardContent}>{item.text}</Text>
-                                    <Text style={styles.cardFooter}>EXPLORE</Text>
-                                </ImageBackground>
+                                    <Text style={styles.cardFooter}>explore</Text>
+                                </View>
                             </View>
                         }
                     />
-                </View>
+                </View>                
             </View>
         );
     }
@@ -96,58 +103,77 @@ const styles = StyleSheet.create({
     MainContainer: {
         flex: 1,
         backgroundColor: '#fafafa',
-        // alignItems: 'center',
         paddingLeft: 20,
         paddingTop: (Platform.OS) === 'ios' ? 20 : 20,
-    },
+    }, 
     heading: {
-        color: '#333',
-        fontSize: 30,
+        color: '#000',
         marginTop: -10,
-        fontFamily: 'Lora-Bold',
-        // letterSpacing: 2
+        fontSize: 14,
+        letterSpacing: 1,
+        fontFamily: 'Raleway-Regular',
     },
+    button: {
+        paddingVertical: 15,
+        paddingHorizontal: 35,
+        marginTop: 70,
+        backgroundColor: '#d1ada9',
+        alignSelf: 'center',
+        borderRadius: 50,
+        borderColor: '#000'
+    },
+    buttonText: {
+        fontSize: 16,
+        color: '#fff',
+        fontFamily: 'SourceSansPro-Regular'
+    }, 
     card: {
-        width: 250,
-        height: 360,
+        width: 130,
+        height: 180,
         elevation: 10,
-        borderRadius: 8,
+        borderRadius: 4,
+        padding: 15,
         marginTop: 20,
         backgroundColor: 'white',
-        justifyContent: 'center',
     },
     cardTitle: {
-        fontFamily: 'Lora-Bold',
-        // textAlign: 'center',
-        fontSize: 34,
-        color: '#fff',
-        alignSelf: 'center',
-        marginTop: 120
+        marginTop: 5,
+        fontFamily: 'PlayfairDisplay-Bold',
+        fontSize: 18,
+        color: '#000',
+        letterSpacing: 0.5,
     },
     divider: {
-        marginTop: 15,
-        width: 50,
-        borderBottomWidth: 2,
+        marginTop: 8,
+        width: 35,
+        borderBottomWidth: 1,
         borderRadius: 3,
-        alignSelf: 'center',
-        borderColor: '#fff',
-        backgroundColor: '#fff'
+        borderColor: '#000',
+        backgroundColor: '#000'
     },
     cardContent: {
         fontSize: 12,
-        marginTop: 15,
-        color: '#fff',
-        textAlign: 'center',
-        fontFamily: 'SourceSansPro-SemiBold',
-        letterSpacing: 1,
-        paddingHorizontal: 20
+        marginTop: 8,
+        color: '#000',
+        fontFamily: 'OpenSans-Light',
+        maxWidth: 120,
+        letterSpacing: 0.4,
     },
     cardFooter: {
-        marginTop: 40,
+        position: 'absolute',
+        bottom: 10,
+        left: 15,
         fontSize: 12,
-        color: '#fff',
-        letterSpacing: 3,
-        fontFamily: 'SourceSansPro-Bold',
-        textAlign: 'center',
+        color: '#d1ada9',
+        letterSpacing: 0.3,
+        fontFamily: 'PlayfairDisplay-Italic',
+        // textAlign: 'center',
+    },
+    category: {
+        marginTop: 25,
+        fontSize: 16,
+        // fontFamily: 'Lora-Regular',
+        fontWeight: '700',
+        color: '#000'
     }
 });
