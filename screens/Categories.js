@@ -1,10 +1,5 @@
 import React, { Component } from 'react';
-import {
-    Platform,
-    StyleSheet,
-    Text,
-    View, TextInput, TouchableOpacity, StatusBar, FlatList, Image, Button, ImageBackground
-} from 'react-native';
+import { Platform,StyleSheet,Text, View, TouchableOpacity, StatusBar, FlatList, Image } from 'react-native';
 import ListItem from '../components/ListItem'
 import Icon from 'react-native-vector-icons/dist/MaterialIcons';
 
@@ -70,26 +65,27 @@ export default class Categories extends React.Component {
     };
 
     render() {
+        const { navigate } = this.props.navigation;
         return (
             <View style={styles.MainContainer}>
                 <StatusBar barStyle="dark-content" backgroundColor='#fff' />
                 <Text style={styles.heading}>CATEGORIES</Text>
                 <View style={{ marginLeft: -12.5 }}>
-                    <FlatList
+                <FlatList
                         style={{ marginTop: 5, height: 250 }}
                         horizontal={true}
                         showsHorizontalScrollIndicator={false}
                         data={this.state.levels}
                         keyExtractor={(item, index) => item.title}
                         renderItem={({ item, index }) =>
-                            <View style={{ paddingHorizontal: 12.5 }}>
+                            <TouchableOpacity style={{ paddingHorizontal: 12.5 }}  onPress={() => navigate('MNN1Vocabulary')}>
                                 <View style={styles.card}>
                                     <Text style={styles.cardTitle}>{item.title}</Text>
                                     <View style={styles.divider}></View>
                                     <Text style={styles.cardContent}>{item.text}</Text>
                                     <Text style={styles.cardFooter}>explore</Text>
                                 </View>
-                            </View>
+                            </TouchableOpacity>
                         }
                     />
                 </View>                

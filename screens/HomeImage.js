@@ -10,7 +10,6 @@ import Icon from 'react-native-vector-icons/dist/MaterialIcons';
 import N5N4vocab from '../assets/N5N4vocab.json';
 import N4vocabParsed from '../assets/N4vocab.json';
 import RNFetchBlob from 'rn-fetch-blob';
-import { createStackNavigator } from 'react-navigation';
 var Realm = require('realm');
 var Sound = require('react-native-sound');
 

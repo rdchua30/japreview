@@ -6,13 +6,14 @@ import {
     View, TextInput, TouchableOpacity, Alert, AsyncStorage, StatusBar, FlatList, Image, Animated, Easing
 } from 'react-native';
 
-import { createStackNavigator } from 'react-navigation'
+import { createStackNavigator } from 'react-navigation';
 //screens
-import HomeScreen from './screens/HomeImage'
-import SearchScreen from './screens/Search'
-import WordScreen from './screens/Word'
-import QuizScreen from './screens/Quiz'
-import CategoriesScreen from './screens/Categories'
+import HomeScreen from './screens/HomeImage';
+import SearchScreen from './screens/Search';
+import WordScreen from './screens/Word';
+import QuizScreen from './screens/Quiz';
+import CategoriesScreen from './screens/Categories';
+import MNN1VocabularyScreen from './screens/Mnn1Vocab';
 
 export default class App extends React.Component {
 
@@ -64,7 +65,8 @@ export const Navigation = createStackNavigator({
     Search: { screen: SearchScreen },
     Word: { screen: WordScreen },
     Quiz: { screen: QuizScreen },
-    Categories: { screen: CategoriesScreen }
+    Categories: { screen: CategoriesScreen },
+    MNN1Vocabulary: { screen: MNN1VocabularyScreen }
 }, {
     transitionConfig
 });

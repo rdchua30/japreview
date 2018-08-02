@@ -128,6 +128,12 @@
 		482F5F0FE5584EF88FF8A0DC /* libRNSound.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 62CDD8A754EB46F38C851B5D /* libRNSound.a */; };
 		6AB5C439C7664201A75B15F4 /* libRNSVG.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5D66C44B94B44B7DB608B65D /* libRNSVG.a */; };
 		03CF6A1D48D34514AC3631D1 /* libRNSVG-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5486FF9B709B419AAC49D1EC /* libRNSVG-tvOS.a */; };
+		C16617D14A8743379D68883F /* PlayfairDisplay-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0B6A7B679EDA4EB1AB58DD76 /* PlayfairDisplay-Black.ttf */; };
+		BD34EABCE9B9415B9B180075 /* PlayfairDisplay-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 74FF2049A81D41869633A275 /* PlayfairDisplay-BlackItalic.ttf */; };
+		7B2B26787E8247F7883FC5C8 /* PlayfairDisplay-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 20EA555B851B446F9551864D /* PlayfairDisplay-Bold.ttf */; };
+		4977DB3ACCCE4CD4937A0905 /* PlayfairDisplay-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8C16FB6C8E5D46A39D97C384 /* PlayfairDisplay-BoldItalic.ttf */; };
+		C1EF544B863E454E890D62B1 /* PlayfairDisplay-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DA7A8732AE294FE68CD31613 /* PlayfairDisplay-Italic.ttf */; };
+		96A47C4C00F14B8097065372 /* PlayfairDisplay-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0BFB754D7799473D97962E32 /* PlayfairDisplay-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -531,6 +537,12 @@
 		0A42F826ECA34913963E6B85 /* RNSVG.xcodeproj */ = {isa = PBXFileReference; name = "RNSVG.xcodeproj"; path = "../node_modules/react-native-svg/ios/RNSVG.xcodeproj"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.pb-project; explicitFileType = undefined; includeInIndex = 0; };
 		5D66C44B94B44B7DB608B65D /* libRNSVG.a */ = {isa = PBXFileReference; name = "libRNSVG.a"; path = "libRNSVG.a"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = archive.ar; explicitFileType = undefined; includeInIndex = 0; };
 		5486FF9B709B419AAC49D1EC /* libRNSVG-tvOS.a */ = {isa = PBXFileReference; name = "libRNSVG-tvOS.a"; path = "libRNSVG-tvOS.a"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = archive.ar; explicitFileType = undefined; includeInIndex = 0; };
+		0B6A7B679EDA4EB1AB58DD76 /* PlayfairDisplay-Black.ttf */ = {isa = PBXFileReference; name = "PlayfairDisplay-Black.ttf"; path = "../assets/fonts/PlayfairDisplay-Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		74FF2049A81D41869633A275 /* PlayfairDisplay-BlackItalic.ttf */ = {isa = PBXFileReference; name = "PlayfairDisplay-BlackItalic.ttf"; path = "../assets/fonts/PlayfairDisplay-BlackItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		20EA555B851B446F9551864D /* PlayfairDisplay-Bold.ttf */ = {isa = PBXFileReference; name = "PlayfairDisplay-Bold.ttf"; path = "../assets/fonts/PlayfairDisplay-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8C16FB6C8E5D46A39D97C384 /* PlayfairDisplay-BoldItalic.ttf */ = {isa = PBXFileReference; name = "PlayfairDisplay-BoldItalic.ttf"; path = "../assets/fonts/PlayfairDisplay-BoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DA7A8732AE294FE68CD31613 /* PlayfairDisplay-Italic.ttf */ = {isa = PBXFileReference; name = "PlayfairDisplay-Italic.ttf"; path = "../assets/fonts/PlayfairDisplay-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0BFB754D7799473D97962E32 /* PlayfairDisplay-Regular.ttf */ = {isa = PBXFileReference; name = "PlayfairDisplay-Regular.ttf"; path = "../assets/fonts/PlayfairDisplay-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -896,6 +908,12 @@
 				71936D9992594F76957D38D2 /* Octicons.ttf */,
 				2EC5EA267ADB4070B24F419E /* SimpleLineIcons.ttf */,
 				AD916851EBA9475892AC3704 /* Zocial.ttf */,
+				0B6A7B679EDA4EB1AB58DD76 /* PlayfairDisplay-Black.ttf */,
+				74FF2049A81D41869633A275 /* PlayfairDisplay-BlackItalic.ttf */,
+				20EA555B851B446F9551864D /* PlayfairDisplay-Bold.ttf */,
+				8C16FB6C8E5D46A39D97C384 /* PlayfairDisplay-BoldItalic.ttf */,
+				DA7A8732AE294FE68CD31613 /* PlayfairDisplay-Italic.ttf */,
+				0BFB754D7799473D97962E32 /* PlayfairDisplay-Regular.ttf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -1428,6 +1446,12 @@
 				DAEBC6A38FE947E697B969AE /* Octicons.ttf in Resources */,
 				1B015E0B0F3B48E38DD729CC /* SimpleLineIcons.ttf in Resources */,
 				CEB9B99748B94E69848001B1 /* Zocial.ttf in Resources */,
+				C16617D14A8743379D68883F /* PlayfairDisplay-Black.ttf in Resources */,
+				BD34EABCE9B9415B9B180075 /* PlayfairDisplay-BlackItalic.ttf in Resources */,
+				7B2B26787E8247F7883FC5C8 /* PlayfairDisplay-Bold.ttf in Resources */,
+				4977DB3ACCCE4CD4937A0905 /* PlayfairDisplay-BoldItalic.ttf in Resources */,
+				C1EF544B863E454E890D62B1 /* PlayfairDisplay-Italic.ttf in Resources */,
+				96A47C4C00F14B8097065372 /* PlayfairDisplay-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
