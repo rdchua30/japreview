@@ -30,7 +30,8 @@ export default class MNN1Vocabulary extends React.Component {
             choices: [],
             word: {},
             score: 0,
-            correctWords: []
+            correctWords: [],
+            backgroundColor: '#f5f5f5',
         }
     }
 
@@ -91,8 +92,7 @@ export default class MNN1Vocabulary extends React.Component {
             let random;
             do{
                 random = Math.floor(Math.random() * db.length) + 1
-            }
-            while(db[random].kanji == '');
+            } while(db[random].kanji == '');
             let random_word = db[random];
             this.setState({ word: random_word });
             arr.push(random_word);
@@ -100,8 +100,7 @@ export default class MNN1Vocabulary extends React.Component {
                 let randomnumber;
                 do {
                     randomnumber = Math.floor(Math.random() * db.length) + 1;
-                }
-                while ((random == randomnumber) || this.state.correctWords.includes(db[randomnumber]))
+                } while ((random == randomnumber) || this.state.correctWords.includes(db[randomnumber]))
                 arr.push(db[randomnumber]);
             }
             arr = this.shuffleArray(arr)
@@ -131,6 +130,13 @@ export default class MNN1Vocabulary extends React.Component {
         return array;
     }
 
+    formatChoices(str){
+        if(str.contains(',')){
+            return str.slice(0, str.indexOf(','));
+        } 
+        return str;
+    }
+
     static navigationOptions = {
         headerStyle: {
             backgroundColor: '#fff',
@@ -157,12 +163,12 @@ export default class MNN1Vocabulary extends React.Component {
                 </View>
                 <View style={[styles.choiceContainer, {flexDirection: 'row'}]}>
                     <View style={{flexDirection: 'column'}}>
-                        <TouchableOpacity onPress={() => this.checkAnswer(this.state.choices[0].english)}><Text style={styles.choice}>{this.state.choices[0] ? this.state.choices[0].english : ''}</Text></TouchableOpacity>
-                        <TouchableOpacity onPress={() => this.checkAnswer(this.state.choices[1].english)}><Text style={styles.choice}>{this.state.choices[1] ? this.state.choices[1].english : ''}</Text></TouchableOpacity>
+                        <TouchableOpacity onPress={() => this.state.choices[0].english == this.state.word.english ? styles.green : styles.red}><Text style={styles.choice}>{this.formatChoices(this.state.choices[0] ? this.state.choices[0].english : '')}</Text></TouchableOpacity>
+                        <TouchableOpacity onPress={() => this.state.choices[0].english == this.state.word.english ? styles.green : styles.red}><Text style={styles.choice}>{this.formatChoices(this.state.choices[1] ? this.state.choices[1].english : '')}</Text></TouchableOpacity>
                     </View>
                     <View style={{flexDirection: 'column', marginLeft: 0}}>
-                        <TouchableOpacity onPress={() => this.checkAnswer(this.state.choices[2].english)}><Text style={styles.choice}>{this.state.choices[2] ? this.state.choices[2].english : ''}</Text></TouchableOpacity>
-                        <TouchableOpacity onPress={() => this.checkAnswer(this.state.choices[3].english)}><Text style={styles.choice}>{this.state.choices[3] ? this.state.choices[3].english : ''}</Text></TouchableOpacity>
+                        <TouchableOpacity onPress={() => this.state.choices[0].english == this.state.word.english ? styles.green : styles.red}><Text style={styles.choice}>{this.formatChoices(this.state.choices[2] ? this.state.choices[2].english : '')}</Text></TouchableOpacity>
+                        <TouchableOpacity onPress={() => this.state.choices[0].english == this.state.word.english ? styles.green : styles.red}><Text style={styles.choice}>{this.formatChoices(this.state.choices[3] ? this.state.choices[3].english : '')}</Text></TouchableOpacity>
                     </View>
                 </View>
             </View>
@@ -259,5 +265,11 @@ const styles = StyleSheet.create({
         margin: 20,
         fontFamily: 'SourceSansPro-Light',
         textAlign: 'center'
+    },
+    green: {
+        color: '#00ff00'
+    },
+    red: {
+        color: '#ff0000'
     }
 });

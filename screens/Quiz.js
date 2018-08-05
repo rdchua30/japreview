@@ -115,11 +115,6 @@ export default class Quiz extends React.Component {
             backgroundColor: '#fff',
             elevation: 0,
         },
-        // headerLeft: (
-        //     <TouchableOpacity onPress={() => Alert.alert('hello')}>
-        //         <Image style={{ marginLeft: 10, height: 45, width: 45 }} source={require('../assets/icons/arrow_left.png')}></Image>
-        //     </TouchableOpacity >
-        // ),
         headerRight: (
             <TouchableOpacity onPress={this.searchAnimate}>
                 <Image style={{ height: 22, width: 22, marginRight: 20 }} source={require('../assets/icons/menu.png')}></Image>
@@ -129,8 +124,6 @@ export default class Quiz extends React.Component {
     };
 
     render() {
-        const { navigate } = this.props.navigation;
-        const { navigation } = this.props;
         return (
             <View style={styles.MainContainer}>
                 <StatusBar barStyle="dark-content" backgroundColor='#fff' />
